@@ -254,7 +254,7 @@ if st.session_state.game_over:
     vs_disp = target['歌唱バチャシン'] if target['歌唱バチャシン'] else "なし"
     date_disp = target['実装日時'].strftime('%Y年%m月%d日')
 
-st.markdown(f"""
+    st.markdown(f"""
 <div class="result-card">
 <h3 style="color: {'#4caf50' if st.session_state.win else '#ff6b6b'}; margin-top: 0;">{title_text}</h3>
 <h2>{target['曲名']}</h2>
@@ -267,7 +267,7 @@ st.markdown(f"""
 <a href="{url}" target="_blank" class="yt-btn">▶ YouTubeで聴く</a>
 </div>
 </div>
-    """, unsafe_allow_html=True)
+""", unsafe_allow_html=True)
     
     st.write("") 
     if st.button("もう一回プレイする"):
