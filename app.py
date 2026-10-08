@@ -254,20 +254,19 @@ if st.session_state.game_over:
     vs_disp = target['歌唱バチャシン'] if target['歌唱バチャシン'] else "なし"
     date_disp = target['実装日時'].strftime('%Y年%m月%d日')
 
-    st.markdown(f"""
-    <div class="result-card">
-        <h3 style="color: {'#4caf50' if st.session_state.win else '#ff6b6b'}; margin-top: 0;">{title_text}</h3>
-        <h2>{target['曲名']}</h2>
-        <p class="result-p"><strong>作曲者：</strong> {target['作曲者']}</p>
-        <p class="result-p"><strong>ユニット：</strong> {target['ユニット']}</p>
-        <p class="result-p"><strong>歌唱バチャシン：</strong> {vs_disp}</p>
-        <p class="result-p"><strong>MASTER難易度：</strong> {target['MASTER難易度']}</p>
-        <p class="result-p"><strong>実装日時：</strong> {date_disp}</p>
-        
-        <div class="btn-container">
-            <a href="{url}" target="_blank" class="yt-btn">▶ YouTubeで聴く</a>
-        </div>
-    </div>
+st.markdown(f"""
+<div class="result-card">
+<h3 style="color: {'#4caf50' if st.session_state.win else '#ff6b6b'}; margin-top: 0;">{title_text}</h3>
+<h2>{target['曲名']}</h2>
+<p class="result-p"><strong>作曲者：</strong> {target['作曲者']}</p>
+<p class="result-p"><strong>ユニット：</strong> {target['ユニット']}</p>
+<p class="result-p"><strong>歌唱バチャシン：</strong> {vs_disp}</p>
+<p class="result-p"><strong>MASTER難易度：</strong> {target['MASTER難易度']}</p>
+<p class="result-p"><strong>実装日時：</strong> {date_disp}</p>
+<div class="btn-container">
+<a href="{url}" target="_blank" class="yt-btn">▶ YouTubeで聴く</a>
+</div>
+</div>
     """, unsafe_allow_html=True)
     
     st.write("") 
