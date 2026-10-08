@@ -1,0 +1,720 @@
+曲番,曲種,曲名,製作者,ユニット,歌唱バチャシン,MASTER難易度,APPEND有無,MV,実装日時,楽曲URL
+11001,既存曲,ロキ,みきとP,Leo/need,"初音ミク, 鏡音リン",29,有,3D,2020/09/30,https://www.youtube.com/results?search_query=%E3%83%AD%E3%82%AD%20%E3%81%BF%E3%81%8D%E3%81%A8P
+11002,既存曲,テオ,Omoi,Leo/need,初音ミク,32,無,3D,2020/09/30,https://www.youtube.com/results?search_query=%E3%83%86%E3%82%AA%20Omoi
+11003,既存曲,ヒバナ -Reloaded-,DECO*27,Leo/need,初音ミク,32,有,2D,2020/09/30,https://www.youtube.com/results?search_query=%E3%83%92%E3%83%90%E3%83%8A%20-Reloaded-%20DECO%2A27
+21001,書き下ろし,needLe,DECO*27,Leo/need,初音ミク,29,無,2D/3D,2020/09/30,https://www.youtube.com/results?search_query=needLe%20DECO%2A27
+11004,既存曲,アスノヨゾラ哨戒班,Orangestar,Leo/need,その他,29,無,原曲,2020/10/01,https://www.youtube.com/results?search_query=%E3%82%A2%E3%82%B9%E3%83%8E%E3%83%A8%E3%82%BE%E3%83%A9%E5%93%A8%E6%88%92%E7%8F%AD%20Orangestar
+11005,既存曲,青く駆けろ！,まらしぃ,Leo/need,初音ミク,27,有,-,2020/10/17,https://www.youtube.com/results?search_query=%E9%9D%92%E3%81%8F%E9%A7%86%E3%81%91%E3%82%8D%EF%BC%81%20%E3%81%BE%E3%82%89%E3%81%97%E3%81%83
+21002,書き下ろし,ステラ,じん,Leo/need,初音ミク,30,有,2D/3D,2020/10/18,https://www.youtube.com/results?search_query=%E3%82%B9%E3%83%86%E3%83%A9%20%E3%81%98%E3%82%93
+11006,既存曲,ウミユリ海底譚,n-buna,Leo/need,初音ミク,28,無,2D/3D,2020/12/01,https://www.youtube.com/results?search_query=%E3%82%A6%E3%83%9F%E3%83%A6%E3%83%AA%E6%B5%B7%E5%BA%95%E8%AD%9A%20n-buna
+11007,既存曲,ドラマツルギー,Eve,Leo/need,初音ミク,29,有,原曲/3D,2020/12/28,https://www.youtube.com/results?search_query=%E3%83%89%E3%83%A9%E3%83%9E%E3%83%84%E3%83%AB%E3%82%AE%E3%83%BC%20Eve
+21003,書き下ろし,霽れを待つ,Orangestar,Leo/need,初音ミク,31,無,2D,2021/01/10,https://www.youtube.com/results?search_query=%E9%9C%BD%E3%82%8C%E3%82%92%E5%BE%85%E3%81%A4%20Orangestar
+11008,既存曲,タイムマシン,1640mP,Leo/need,初音ミク,27,無,2D/3D,2021/02/10,https://www.youtube.com/results?search_query=%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%9E%E3%82%B7%E3%83%B3%201640mP
+11009,既存曲,from Y to Y,ジミーサムP,Leo/need,初音ミク,27,無,-,2021/03/22,https://www.youtube.com/results?search_query=from%20Y%20to%20Y%20%E3%82%B8%E3%83%9F%E3%83%BC%E3%82%B5%E3%83%A0P
+21004,書き下ろし,「１」,164,Leo/need,巡音ルカ,27,有,2D,2021/04/21,https://www.youtube.com/results?search_query=%E3%80%8C%EF%BC%91%E3%80%8D%20164
+11010,既存曲,いかないで,想太,Leo/need,"初音ミク, その他",29,有,3D,2021/05/28,https://www.youtube.com/results?search_query=%E3%81%84%E3%81%8B%E3%81%AA%E3%81%84%E3%81%A7%20%E6%83%B3%E5%A4%AA
+21005,書き下ろし,フロムトーキョー,夏代孝明,Leo/need,初音ミク,28,無,2D/3D,2021/07/07,https://www.youtube.com/results?search_query=%E3%83%95%E3%83%AD%E3%83%A0%E3%83%88%E3%83%BC%E3%82%AD%E3%83%A7%E3%83%BC%20%E5%A4%8F%E4%BB%A3%E5%AD%9D%E6%98%8E
+11011,既存曲,六兆年と一夜物語,kemu,Leo/need,初音ミク,35,有,2D,2021/07/12,https://www.youtube.com/results?search_query=%E5%85%AD%E5%85%86%E5%B9%B4%E3%81%A8%E4%B8%80%E5%A4%9C%E7%89%A9%E8%AA%9E%20kemu
+11012,既存曲,カゲロウデイズ,じん,Leo/need,初音ミク,31,有,-,2021/08/15,https://www.youtube.com/results?search_query=%E3%82%AB%E3%82%B2%E3%83%AD%E3%82%A6%E3%83%87%E3%82%A4%E3%82%BA%20%E3%81%98%E3%82%93
+21006,書き下ろし,流星のパルス,*Luna,Leo/need,MEIKO,31,無,2D,2021/09/10,https://www.youtube.com/results?search_query=%E6%B5%81%E6%98%9F%E3%81%AE%E3%83%91%E3%83%AB%E3%82%B9%20%2ALuna
+11013,既存曲,ロストワンの号哭,Neru,Leo/need,鏡音リン,33,無,2D/3D,2021/10/02,https://www.youtube.com/results?search_query=%E3%83%AD%E3%82%B9%E3%83%88%E3%83%AF%E3%83%B3%E3%81%AE%E5%8F%B7%E5%93%AD%20Neru
+11014,既存曲,ray,藤原 基央,Leo/need,初音ミク,26,無,2D/3D,2021/10/12,https://www.youtube.com/results?search_query=ray%20BUMP%20OF%20CHICKEN
+11015,既存曲,"Hello,world!",藤原 基央,Leo/need,初音ミク,29,無,2D,2021/10/13,https://www.youtube.com/results?search_query=Hello%2Cworld%21%20BUMP%20OF%20CHICKEN
+21007,書き下ろし,STAGE OF SEKAI,針原翼(はりーP),Leo/need,鏡音レン,30,無,2D/3D,2021/11/18,https://www.youtube.com/results?search_query=STAGE%20OF%20SEKAI%20%E5%82%98%E6%9D%91%E3%83%88%E3%83%BC%E3%82%BF
+11016,既存曲,ゴーストルール,DECO*27,Leo/need,初音ミク,33,無,-,2021/12/30,https://www.youtube.com/results?search_query=%E3%82%B4%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AB%E3%83%BC%E3%83%AB%20DECO%2A27
+11017,既存曲,心拍数♯0822,蝶々P,Leo/need,初音ミク,27,無,2D,2022/01/24,https://www.youtube.com/results?search_query=%E5%BF%83%E6%8B%8D%E6%95%B0%E2%99%AF0822%20%E8%9D%B6%E3%80%85P
+21008,書き下ろし,Peaky Peaky,みきとP,Leo/need,KAITO,28,無,2D,2022/02/18,https://www.youtube.com/results?search_query=Peaky%20Peaky%20%E3%81%BF%E3%81%8D%E3%81%A8P
+11018,既存曲,僕らまだアンダーグラウンド,Eve,Leo/need,初音ミク,28,無,原曲/2D,2022/03/04,https://www.youtube.com/results?search_query=%E5%83%95%E3%82%89%E3%81%BE%E3%81%A0%E3%82%A2%E3%83%B3%E3%83%80%E3%83%BC%E3%82%B0%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89%20Eve
+21009,書き下ろし,オーダーメイド,傘村トータ,Leo/need,巡音ルカ,26,有,2D/3D,2022/04/28,https://www.youtube.com/results?search_query=%E3%82%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%83%A1%E3%82%A4%E3%83%89%20%E5%82%98%E6%9D%91%E3%83%88%E3%83%BC%E3%82%BF
+21010,書き下ろし,てらてら,和田たけあき,Leo/need,初音ミク,30,有,2D,2022/07/21,https://www.youtube.com/results?search_query=%E3%81%A6%E3%82%89%E3%81%A6%E3%82%89%20%E5%92%8C%E7%94%B0%E3%81%9F%E3%81%91%E3%81%82%E3%81%8D
+11019,既存曲,ロストエンファウンド,sasakure.UK,Leo/need,初音ミク,29,無,3D,2022/08/15,https://www.youtube.com/results?search_query=%E3%83%AD%E3%82%B9%E3%83%88%E3%82%A8%E3%83%B3%E3%83%95%E3%82%A1%E3%82%A6%E3%83%B3%E3%83%89%20sasakure.UK
+21011,書き下ろし,Voices,ゆよゆっぺ,Leo/need,鏡音リン,30,無,2D/3D,2022/09/07,https://www.youtube.com/results?search_query=Voices%20%E3%82%86%E3%82%88%E3%82%86%E3%81%A3%E3%81%BA
+11020,既存曲,Calc.,ジミーサムP,Leo/need,初音ミク,30,無,-,2022/09/16,https://www.youtube.com/results?search_query=Calc.%20%E3%82%B8%E3%83%9F%E3%83%BC%E3%82%B5%E3%83%A0P
+11021,既存曲,天ノ弱,164,Leo/need,その他,29,無,2D,2022/10/01,https://www.youtube.com/results?search_query=%E5%A4%A9%E3%83%8E%E5%BC%B1%20164
+21012,書き下ろし,the WALL,buzzG,Leo/need,初音ミク,30,無,3D,2022/11/18,https://www.youtube.com/results?search_query=the%20WALL%20buzzG
+21013,書き下ろし,フレー,HoneyWorks,Leo/need,初音ミク,30,無,2D,2022/11/26,https://www.youtube.com/results?search_query=%E3%83%95%E3%83%AC%E3%83%BC%20HoneyWorks
+11022,既存曲,夜もすがら君想ふ,TOKOTOKO（西沢さんP）,Leo/need,鏡音リン,28,無,2D,2022/12/29,https://www.youtube.com/results?search_query=%E5%A4%9C%E3%82%82%E3%81%99%E3%81%8C%E3%82%89%E5%90%9B%E6%83%B3%E3%81%B5%20TOKOTOKO%EF%BC%88%E8%A5%BF%E6%B2%A2%E3%81%95%E3%82%93P%EF%BC%89
+21014,書き下ろし,Flyway,halyosy,Leo/need,鏡音レン,29,有,2D,2023/01/21,https://www.youtube.com/results?search_query=Flyway%20halyosy
+11023,既存曲,"Hello, Worker",ハヤシケイ,Leo/need,巡音ルカ,28,無,3D,2023/02/20,https://www.youtube.com/results?search_query=Hello%2C%20Worker%20%E3%83%8F%E3%83%A4%E3%82%B7%E3%82%B1%E3%82%A4
+11024,既存曲,アトラクトライト,*Luna,Leo/need,鏡音レン,30,無,2D,2023/03/24,https://www.youtube.com/results?search_query=%E3%82%A2%E3%83%88%E3%83%A9%E3%82%AF%E3%83%88%E3%83%A9%E3%82%A4%E3%83%88%20%2ALuna
+21015,書き下ろし,相生,やいり,Leo/need,MEIKO,26,無,2D,2023/04/11,https://www.youtube.com/results?search_query=%E7%9B%B8%E7%94%9F%20%E3%82%84%E3%81%AA%E3%81%8E%E3%81%AA%E3%81%8E
+11025,既存曲,快晴,Orangestar,Leo/need,初音ミク,29,無,2D/3D,2023/05/01,https://www.youtube.com/results?search_query=%E5%BF%AB%E6%99%B4%20Orangestar
+11026,既存曲,glow,keeno,Leo/need,初音ミク,26,有,3D,2023/06/23,https://www.youtube.com/results?search_query=glow%20keeno
+21016,書き下ろし,星を繋ぐ,40mP×一二三(12340mP),Leo/need,KAITO,28,有,2D,2023/07/21,https://www.youtube.com/results?search_query=%E6%98%9F%E3%82%92%E7%B9%8B%E3%81%90%20%E4%B8%80%E4%BA%8C%E4%B8%89
+11027,既存曲,サマータイムレコード,じん,Leo/need,巡音ルカ,28,無,-,2023/08/15,https://www.youtube.com/results?search_query=%E3%82%B5%E3%83%9E%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89%20%E3%81%98%E3%82%93
+11028,既存曲,天樂,ゆうゆ,Leo/need,鏡音リン,29,無,原曲,2023/10/02,https://www.youtube.com/results?search_query=%E5%A4%A9%E6%A8%82%20%E3%82%86%E3%81%86%E3%82%86
+21017,書き下ろし,purpose,doriko,Leo/need,鏡音リン,28,無,2D/3D,2023/10/29,https://www.youtube.com/results?search_query=purpose%20doriko
+11029,既存曲,初めての恋が終わる時,ryo,Leo/need,初音ミク,29,無,-,2023/12/28,https://www.youtube.com/results?search_query=%E5%88%9D%E3%82%81%E3%81%A6%E3%81%AE%E6%81%8B%E3%81%8C%E7%B5%82%E3%82%8F%E3%82%8B%E6%99%82%20ryo
+11030,既存曲,ハイドアンド・シーク,19 -iku-,Leo/need,初音ミク,28,無,-,2024/01/09,https://www.youtube.com/results?search_query=%E3%83%8F%E3%82%A4%E3%83%89%E3%82%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%82%B7%E3%83%BC%E3%82%AF%2019%20-iku-
+21018,書き下ろし,レグルス,ゆうゆ,Leo/need,KAITO,29,有,2D/3D,2024/02/18,https://www.youtube.com/results?search_query=%E3%83%AC%E3%82%B0%E3%83%AB%E3%82%B9%20%E3%82%86%E3%81%86%E3%82%86
+21019,書き下ろし,インテグラル,*Luna,Leo/need,初音ミク,28,有,2D/3D,2024/03/01,https://www.youtube.com/results?search_query=%E3%82%A4%E3%83%B3%E3%83%86%E3%82%B0%E3%83%A9%E3%83%AB%20DIVELA
+11031,既存曲,幾望の月,なきゃむりゃ,Leo/need,MEIKO,29,有,原曲,2024/03/27,https://www.youtube.com/results?search_query=%E5%B9%BE%E6%9C%9B%E3%81%AE%E6%9C%88%20%E6%A0%97%E5%B1%B1%E5%A4%95%E7%92%83
+21020,書き下ろし,すれすれ,すこっぷ,Leo/need,MEIKO,26,無,2D/3D,2024/04/28,https://www.youtube.com/results?search_query=%E3%81%99%E3%82%8C%E3%81%99%E3%82%8C%20%E3%81%BF%E3%81%8D%E3%81%A8P
+11032,既存曲,東京テディベア,Neru,Leo/need,鏡音リン,31,有,2D/3D,2024/05/13,https://www.youtube.com/results?search_query=%E6%9D%B1%E4%BA%AC%E3%83%86%E3%83%87%E3%82%A3%E3%83%99%E3%82%A2%20Neru
+11033,既存曲,抜錨,ナナホシ管弦楽団,Leo/need,巡音ルカ,28,無,2D/3D,2024/06/03,https://www.youtube.com/results?search_query=%E6%8A%9C%E9%8C%A8%20%E3%83%8A%E3%83%8A%E3%83%9B%E3%82%B7%E7%AE%A1%E5%BC%A6%E6%A5%BD%E5%9B%A3
+11034,既存曲,林檎売りの泡沫少女,yukkedoluce,Leo/need,鏡音レン,28,無,原曲/2D,2024/07/17,https://www.youtube.com/results?search_query=%E6%9E%97%E6%AA%8E%E5%A3%B2%E3%82%8A%E3%81%AE%E6%B3%A1%E6%B2%AB%E5%B0%91%E5%A5%B3%20yukkedoluce
+21021,書き下ろし,それでも僕らは歌うことをやめない,葵木ゴウ,Leo/need,鏡音レン,30,無,2D,2024/09/20,https://www.youtube.com/results?search_query=%E3%81%9D%E3%82%8C%E3%81%A7%E3%82%82%E5%83%95%E3%82%89%E3%81%AF%E6%AD%8C%E3%81%86%E3%81%93%E3%81%A8%E3%82%92%E3%82%84%E3%82%81%E3%81%AA%E3%81%84%20%E5%82%98%E6%9D%91%E3%83%88%E3%83%BC%E3%82%BF
+11035,既存曲,モザイクロール (Reloaded),DECO*27,Leo/need,KAITO,29,無,2D/3D,2024/10/01,https://www.youtube.com/results?search_query=%E3%83%A2%E3%82%B6%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%AB%20%28Reloaded%29%20DECO%2A27
+21022,書き下ろし,その音が鳴るなら,石風呂,Leo/need,巡音ルカ,29,無,2D,2024/10/31,https://www.youtube.com/results?search_query=%E3%81%9D%E3%81%AE%E9%9F%B3%E3%81%8C%E9%B3%B4%E3%82%8B%E3%81%AA%E3%82%89%20%E5%82%98%E6%9D%91%E3%83%88%E3%83%BC%E3%82%BF
+11036,既存曲,ワールド・ランプシェード [reunion],buzzG,Leo/need,KAITO,30,無,原曲,2025/01/03,https://www.youtube.com/results?search_query=%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%A9%E3%83%B3%E3%83%97%E3%82%B7%E3%82%A7%E3%83%BC%E3%83%89%20%5Breunion%5D%20buzzG
+11037,既存曲,Henceforth,Orangestar,Leo/need,初音ミク,29,無,3D,2025/01/10,https://www.youtube.com/results?search_query=Henceforth%20Orangestar
+11038,既存曲,終焉逃避行,柊マグネタイト,Leo/need,巡音ルカ,29,無,-,2025/02/01,https://www.youtube.com/results?search_query=%E7%B5%82%E7%84%89%E9%80%83%E9%81%BF%E8%A1%8C%20%E6%9F%8A%E3%83%9E%E3%82%B0%E3%83%8D%E3%82%BF%E3%82%A4%E3%83%88
+21023,書き下ろし,SToRY,DECO*27,Leo/need,無し,29,無,2D,2025/02/06,https://www.youtube.com/results?search_query=SToRY%20%E3%83%80%E3%82%BA%E3%83%93%E3%83%BC
+11039,既存曲,透明エレジー,n-buna,Leo/need,鏡音レン,30,無,3D,2025/03/17,https://www.youtube.com/results?search_query=%E9%80%8F%E6%98%8E%E3%82%A8%E3%83%AC%E3%82%B8%E3%83%BC%20n-buna
+21024,書き下ろし,Sympathy,Eve,Leo/need,初音ミク,28,有,2D,2025/03/30,https://www.youtube.com/results?search_query=Sympathy%20%E5%82%98%E6%9D%91%E3%83%88%E3%83%BC%E3%82%BF
+11040,既存曲,エンヴィキャットウォーク,トーマ,Leo/need,初音ミク,30,無,-,2025/05/26,https://www.youtube.com/results?search_query=%E3%82%A8%E3%83%B3%E3%83%B4%E3%82%A3%E3%82%AD%E3%83%A3%E3%83%83%E3%83%88%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AF%20%E3%83%88%E3%83%BC%E3%83%9E
+21025,書き下ろし,透明なパレット,Aqu3ra,Leo/need,鏡音リン,29,無,2D,2025/07/15,https://www.youtube.com/results?search_query=%E9%80%8F%E6%98%8E%E3%81%AA%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%20%E5%82%98%E6%9D%91%E3%83%88%E3%83%BC%E3%82%BF
+11041,既存曲,深海シティアンダーグラウンド,田中B,Leo/need,鏡音リン,29,無,-,2025/09/16,https://www.youtube.com/results?search_query=%E6%B7%B1%E6%B5%B7%E3%82%B7%E3%83%86%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%80%E3%83%BC%E3%82%B0%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89%20%E7%94%B0%E4%B8%ADB
+11042,既存曲,おどりゃんせ,ユリイ・カノン,Leo/need,KAITO,32,無,3D,2025/10/01,https://www.youtube.com/results?search_query=%E3%81%8A%E3%81%A9%E3%82%8A%E3%82%83%E3%82%93%E3%81%9B%20%E3%83%A6%E3%83%AA%E3%82%A4%E3%83%BB%E3%82%AB%E3%83%8E%E3%83%B3
+21026,書き下ろし,スター,大漠波新,Leo/need,MEIKO,29,無,2D/3D,2025/10/19,https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%BF%E3%83%BC%20%E5%82%98%E6%9D%91%E3%83%88%E3%83%BC%E3%82%BF
+11043,既存曲,ロケットサイダー,ナユタン星人,Leo/need,初音ミク,31,無,-,2025/11/07,https://www.youtube.com/results?search_query=%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88%E3%82%B5%E3%82%A4%E3%83%80%E3%83%BC%20%E3%83%8A%E3%83%A6%E3%82%BF%E3%83%B3%E6%98%9F%E4%BA%BA
+21027,書き下ろし,花結び,栗山夕璃,Leo/need,巡音ルカ,29,無,2D,2025/11/30,https://www.youtube.com/results?search_query=%E8%8A%B1%E7%B5%90%E3%81%B3%20%E5%82%98%E6%9D%91%E3%83%88%E3%83%BC%E3%82%BF
+11044,既存曲,君が飛び降りるのならば,Omoi,Leo/need,MEIKO,30,無,3D,2026/01/05,https://www.youtube.com/results?search_query=%E5%90%9B%E3%81%8C%E9%A3%9B%E3%81%B3%E9%99%8D%E3%82%8A%E3%82%8B%E3%81%AE%E3%81%AA%E3%82%89%E3%81%B0%20Omoi
+21028,書き下ろし,このまんまでいこう,KEI,Leo/need,巡音ルカ,28,無,2D/3D,2026/02/17,https://www.youtube.com/results?search_query=%E3%81%93%E3%81%AE%E3%81%BE%E3%82%93%E3%81%BE%E3%81%A7%E3%81%84%E3%81%93%E3%81%86%20%E5%82%98%E6%9D%91%E3%83%88%E3%83%BC%E3%82%BF
+11045,既存曲,ラムネ,Aqu3ra,Leo/need,鏡音レン,29,無,-,2026/03/06,https://www.youtube.com/results?search_query=%E3%83%A9%E3%83%A0%E3%83%8D%20%E5%82%98%E6%9D%91%E3%83%88%E3%83%BC%E3%82%BF
+11046,既存曲,ヘッジホッグ,Noz.,Leo/need,鏡音リン,28,無,-,2026/04/13,https://www.youtube.com/results?search_query=%E3%83%98%E3%83%83%E3%82%B8%E3%83%9B%E3%83%83%E3%82%B0%20NOISEMAKER
+21029,書き下ろし,星に一番近い場所,TOKOTOKO（西沢さんP）,Leo/need,鏡音レン,28,無,2D/3D,2026/05/06,https://www.youtube.com/results?search_query=%E6%98%9F%E3%81%AB%E4%B8%80%E7%95%AA%E8%BF%91%E3%81%84%E5%A0%B4%E6%89%80%20%E5%82%98%E6%9D%91%E3%83%88%E3%83%BC%E3%82%BF
+11047,既存曲,ラズベリー＊モンスター,HoneyWorks,Leo/need,初音ミク,30,無,3D,2026/06/05,https://www.youtube.com/results?search_query=%E3%83%A9%E3%82%BA%E3%83%99%E3%83%AA%E3%83%BC%EF%BC%8A%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%20HoneyWorks
+21030,書き下ろし,天秤、指先で触れて,卯花ロク,Leo/need,鏡音リン,28,無,2D,2026/07/31,https://www.youtube.com/results?search_query=%E5%A4%A9%E7%A7%A4%E3%80%81%E6%8C%87%E5%85%88%E3%81%A7%E8%A7%A6%E3%82%8C%E3%81%A6%20%E5%82%98%E6%9D%91%E3%83%88%E3%83%BC%E3%82%BF
+11048,既存曲,アディショナルメモリー,じん,Leo/need,鏡音レン,31,無,-,2026/08/10,https://www.youtube.com/results?search_query=%E3%82%A2%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%20%E3%81%98%E3%82%93
+11049,既存曲,アブノーマリティ･ダンシンガール,ぐちり,Leo/need,鏡音リン,32,無,3D,2026/10/02,https://www.youtube.com/results?search_query=%E3%82%A2%E3%83%96%E3%83%8E%E3%83%BC%E3%83%9E%E3%83%AA%E3%83%86%E3%82%A3%EF%BD%A5%E3%83%80%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%BC%E3%83%AB%20%E3%81%90%E3%81%A1%E3%82%8A
+12001,既存曲,ハッピーシンセサイザ,EasyPop,MORE MORE JUMP!,無し,28,有,2D/3D,2020/09/30,https://www.youtube.com/results?search_query=%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%20EasyPop
+12002,既存曲,Nostalogic,yuukiss,MORE MORE JUMP!,MEIKO,29,無,2D,2020/09/30,https://www.youtube.com/results?search_query=Nostalogic%20yuukiss
+12003,既存曲,ツギハギスタッカート,とあ,MORE MORE JUMP!,初音ミク,28,無,2D/3D,2020/09/30,https://www.youtube.com/results?search_query=%E3%83%84%E3%82%AE%E3%83%8F%E3%82%AE%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AB%E3%83%BC%E3%83%88%20%E3%81%A8%E3%81%82
+22001,書き下ろし,アイドル新鋭隊,Mitchie M,MORE MORE JUMP!,無し,29,無,3D,2020/09/30,https://www.youtube.com/results?search_query=%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E6%96%B0%E9%8B%AD%E9%9A%8A%20Mitchie%20M
+12004,既存曲,ニア,夏代孝明,MORE MORE JUMP!,初音ミク,27,無,3D,2020/10/02,https://www.youtube.com/results?search_query=%E3%83%8B%E3%82%A2%20%E5%A4%8F%E4%BB%A3%E5%AD%9D%E6%98%8E
+12005,既存曲,ビバハピ,Mitchie M,MORE MORE JUMP!,初音ミク,29,有,2D,2020/10/11,https://www.youtube.com/results?search_query=%E3%83%93%E3%83%90%E3%83%8F%E3%83%94%20Mitchie%20M
+12006,既存曲,メルティランドナイトメア,はるまきごはん,MORE MORE JUMP!,初音ミク,27,無,3D,2020/10/25,https://www.youtube.com/results?search_query=%E3%83%A1%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A9%E3%83%B3%E3%83%89%E3%83%8A%E3%82%A4%E3%83%88%E3%83%A1%E3%82%A2%20%E3%81%AF%E3%82%8B%E3%81%BE%E3%81%8D%E3%81%94%E3%81%AF%E3%82%93
+22002,書き下ろし,モア！ジャンプ！モア！,ナユタン星人,MORE MORE JUMP!,初音ミク,31,有,2D,2020/11/19,https://www.youtube.com/results?search_query=%E3%83%A2%E3%82%A2%EF%BC%81%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%EF%BC%81%E3%83%A2%E3%82%A2%EF%BC%81%20%E3%83%8A%E3%83%A6%E3%82%BF%E3%83%B3%E6%98%9F%E4%BA%BA
+12007,既存曲,恋愛裁判,40mP,MORE MORE JUMP!,初音ミク,28,無,原曲/2D,2020/12/30,https://www.youtube.com/results?search_query=%E6%81%8B%E6%84%9B%E8%A3%81%E5%88%A4%2040mP
+22003,書き下ろし,Color of Drops,40mP,MORE MORE JUMP!,巡音ルカ,28,有,3D,2021/01/29,https://www.youtube.com/results?search_query=Color%20of%20Drops%2040mP
+12008,既存曲,ミルククラウン・オン・ソーネチカ,ユジー,MORE MORE JUMP!,初音ミク,30,有,2D,2021/02/06,https://www.youtube.com/results?search_query=%E3%83%9F%E3%83%AB%E3%82%AF%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%BB%E3%82%AA%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%83%8D%E3%83%81%E3%82%AB%20%E3%83%A6%E3%82%B8%E3%83%BC
+22004,書き下ろし,天使のクローバー,DIVELA,MORE MORE JUMP!,鏡音リン,31,無,2D/3D,2021/03/30,https://www.youtube.com/results?search_query=%E5%A4%A9%E4%BD%BF%E3%81%AE%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%90%E3%83%BC%20DIVELA
+12009,既存曲,どりーみんチュチュ,emon(Tes.),MORE MORE JUMP!,巡音ルカ,27,無,原曲/2D/3D,2021/04/12,https://www.youtube.com/results?search_query=%E3%81%A9%E3%82%8A%E3%83%BC%E3%81%BF%E3%82%93%E3%83%81%E3%83%A5%E3%83%81%E3%83%A5%20emon%28Tes.%29
+22005,書き下ろし,アイノマテリアル,Junky,MORE MORE JUMP!,MEIKO,26,無,2D,2021/05/21,https://www.youtube.com/results?search_query=%E3%82%A2%E3%82%A4%E3%83%8E%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E3%83%AB%20Junky
+12010,既存曲,ロミオとシンデレラ,doriko,MORE MORE JUMP!,初音ミク,28,無,2D/3D,2021/06/07,https://www.youtube.com/results?search_query=%E3%83%AD%E3%83%9F%E3%82%AA%E3%81%A8%E3%82%B7%E3%83%B3%E3%83%87%E3%83%AC%E3%83%A9%20doriko
+12011,既存曲,地球最後の告白を,kemu,MORE MORE JUMP!,巡音ルカ,31,有,2D,2021/07/19,https://www.youtube.com/results?search_query=%E5%9C%B0%E7%90%83%E6%9C%80%E5%BE%8C%E3%81%AE%E5%91%8A%E7%99%BD%E3%82%92%20kemu
+22006,書き下ろし,アイスドロップ,Aqu3ra,MORE MORE JUMP!,鏡音レン,27,無,3D,2021/08/18,https://www.youtube.com/results?search_query=%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%89%E3%83%AD%E3%83%83%E3%83%97%20aqu3ra
+12012,既存曲,マシュマリー,MIMI,MORE MORE JUMP!,初音ミク,29,無,2D,2021/10/10,https://www.youtube.com/results?search_query=%E3%83%9E%E3%82%B7%E3%83%A5%E3%83%9E%E3%83%AA%E3%83%BC%20MIMI
+12013,既存曲,Happy Halloween,Junky,MORE MORE JUMP!,鏡音リン,31,有,原曲,2021/10/30,https://www.youtube.com/results?search_query=Happy%20Halloween%20Junky
+12014,既存曲,からくりピエロ,40mP,MORE MORE JUMP!,初音ミク,27,無,2D/3D,2021/11/29,https://www.youtube.com/results?search_query=%E3%81%8B%E3%82%89%E3%81%8F%E3%82%8A%E3%83%94%E3%82%A8%E3%83%AD%2040mP
+22007,書き下ろし,ワールドワイドワンダー,TOKOTOKO（西沢さんP）,MORE MORE JUMP!,KAITO,28,有,2D,2021/12/10,https://www.youtube.com/results?search_query=%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%AF%E3%82%A4%E3%83%89%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%20TOKOTOKO%EF%BC%88%E8%A5%BF%E6%B2%A2%E3%81%95%E3%82%93P%EF%BC%89
+12015,既存曲,少女レイ,みきとP,MORE MORE JUMP!,初音ミク,27,有,2D/3D,2022/01/02,https://www.youtube.com/results?search_query=%E5%B0%91%E5%A5%B3%E3%83%AC%E3%82%A4%20%E3%81%BF%E3%81%8D%E3%81%A8P
+12016,既存曲,心予報,Eve,MORE MORE JUMP!,初音ミク,28,有,原曲/2D,2022/03/02,https://www.youtube.com/results?search_query=%E5%BF%83%E4%BA%88%E5%A0%B1%20Eve
+22008,書き下ろし,メタモリボン,emon(Tes.),MORE MORE JUMP!,鏡音リン,26,無,2D,2022/03/11,https://www.youtube.com/results?search_query=%E3%83%A1%E3%82%BF%E3%83%A2%E3%83%AA%E3%83%9C%E3%83%B3%20emon%28Tes.%29
+12017,既存曲,ダーリンダンス,かいりきベア,MORE MORE JUMP!,初音ミク,30,無,2D,2022/04/25,https://www.youtube.com/results?search_query=%E3%83%80%E3%83%BC%E3%83%AA%E3%83%B3%E3%83%80%E3%83%B3%E3%82%B9%20%E3%81%8B%E3%81%84%E3%82%8A%E3%81%8D%E3%83%99%E3%82%A2
+22009,書き下ろし,イフ,ユリイ・カノン,MORE MORE JUMP!,初音ミク,27,有,2D/3D,2022/05/08,https://www.youtube.com/results?search_query=%E3%82%A4%E3%83%95%20%E3%83%A6%E3%83%AA%E3%82%A4%E3%83%BB%E3%82%AB%E3%83%8E%E3%83%B3
+12018,既存曲,ヴァンパイア,DECO*27,MORE MORE JUMP!,初音ミク,30,有,2D/3D,2022/06/20,https://www.youtube.com/results?search_query=%E3%83%B4%E3%82%A1%E3%83%B3%E3%83%91%E3%82%A4%E3%82%A2%20DECO%2A27
+22010,書き下ろし,パラソルサイダー,ナナホシ管弦楽団,MORE MORE JUMP!,巡音ルカ,30,無,2D,2022/08/10,https://www.youtube.com/results?search_query=%E3%83%91%E3%83%A9%E3%82%BD%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%80%E3%83%BC%20%E3%83%8A%E3%83%8A%E3%83%9B%E3%82%B7%E7%AE%A1%E5%BC%A6%E6%A5%BD%E5%9B%A3
+12019,既存曲,トリノコシティ,40mP,MORE MORE JUMP!,初音ミク,27,無,-,2022/10/08,https://www.youtube.com/results?search_query=%E3%83%88%E3%83%AA%E3%83%8E%E3%82%B3%E3%82%B7%E3%83%86%E3%82%A3%2040mP
+22011,書き下ろし,DREAM PLACE,EasyPop,MORE MORE JUMP!,MEIKO,29,無,3D,2022/10/19,https://www.youtube.com/results?search_query=DREAM%20PLACE%20EasyPop
+22012,書き下ろし,フロート・プランナー,Heavenz,MORE MORE JUMP!,鏡音リン,27,無,2D,2022/11/30,https://www.youtube.com/results?search_query=%E3%83%95%E3%83%AD%E3%83%BC%E3%83%88%E3%83%BB%E3%83%97%E3%83%A9%E3%83%B3%E3%83%8A%E3%83%BC%20Heavenz
+12020,既存曲,ロンリーユニバース,Aqu3ra,MORE MORE JUMP!,初音ミク,27,無,2D,2022/12/09,https://www.youtube.com/results?search_query=%E3%83%AD%E3%83%B3%E3%83%AA%E3%83%BC%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B9%20aqu3ra
+12021,既存曲,気まぐれメルシィ,八王子P,MORE MORE JUMP!,初音ミク,31,無,3D,2023/01/02,https://www.youtube.com/results?search_query=%E6%B0%97%E3%81%BE%E3%81%90%E3%82%8C%E3%83%A1%E3%83%AB%E3%82%B7%E3%82%A3%20%E5%85%AB%E7%8E%8B%E5%AD%90P
+22013,書き下ろし,私は、私達は,Guiano,MORE MORE JUMP!,鏡音レン,27,無,3D,2023/02/17,https://www.youtube.com/results?search_query=%E7%A7%81%E3%81%AF%E3%80%81%E7%A7%81%E9%81%94%E3%81%AF%20Guiano
+12022,既存曲,Booo!,TOKOTOKO（西沢さんP）,MORE MORE JUMP!,鏡音リン,29,無,2D,2023/03/07,https://www.youtube.com/results?search_query=Booo%21%20TOKOTOKO%EF%BC%88%E8%A5%BF%E6%B2%A2%E3%81%95%E3%82%93P%EF%BC%89
+12023,既存曲,深海少女,ゆうゆ,MORE MORE JUMP!,初音ミク,27,無,原曲,2023/04/07,https://www.youtube.com/results?search_query=%E6%B7%B1%E6%B5%B7%E5%B0%91%E5%A5%B3%20%E3%82%86%E3%81%86%E3%82%86
+22014,書き下ろし,ももいろの鍵,いよわ,MORE MORE JUMP!,巡音ルカ,31,無,2D/3D,2023/04/28,https://www.youtube.com/results?search_query=%E3%82%82%E3%82%82%E3%81%84%E3%82%8D%E3%81%AE%E9%8D%B5%20%E3%81%84%E3%82%88%E3%82%8F
+12024,既存曲,セツナトリップ,Last Note.,MORE MORE JUMP!,鏡音リン,32,無,原曲,2023/05/15,https://www.youtube.com/results?search_query=%E3%82%BB%E3%83%84%E3%83%8A%E3%83%88%E3%83%AA%E3%83%83%E3%83%97%20Last%20Note.
+22015,書き下ろし,チームメイト,HoneyWorks,MORE MORE JUMP!,鏡音レン,30,無,2D,2023/06/20,https://www.youtube.com/results?search_query=%E3%83%81%E3%83%BC%E3%83%A0%E3%83%A1%E3%82%A4%E3%83%88%20HoneyWorks
+12025,既存曲,きゅうくらりん,いよわ,MORE MORE JUMP!,MEIKO,31,無,原曲/2D,2023/07/03,https://www.youtube.com/results?search_query=%E3%81%8D%E3%82%85%E3%81%86%E3%81%8F%E3%82%89%E3%82%8A%E3%82%93%20%E3%81%84%E3%82%88%E3%82%8F
+22016,書き下ろし,我らステインバスターズ！,真島ゆろ,MORE MORE JUMP!,"初音ミク, 鏡音リン",28,無,2D,2023/08/01,https://www.youtube.com/results?search_query=%E6%88%91%E3%82%89%E3%82%B9%E3%83%86%E3%82%A4%E3%83%B3%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA%EF%BC%81%20%E7%9C%9F%E5%B3%B6%E3%82%86%E3%82%8D
+12026,既存曲,白い雪のプリンセスは,のぼる↑,MORE MORE JUMP!,初音ミク,29,無,3D,2023/09/11,https://www.youtube.com/results?search_query=%E7%99%BD%E3%81%84%E9%9B%AA%E3%81%AE%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%81%AF%20%E3%81%AE%E3%81%BC%E3%82%8B%E2%86%91
+12027,既存曲,メランコリック,Junky,MORE MORE JUMP!,鏡音リン,27,無,原曲,2023/10/04,https://www.youtube.com/results?search_query=%E3%83%A1%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%AA%E3%83%83%E3%82%AF%20Junky
+12028,既存曲,悪役にキスシーンを,40mP,MORE MORE JUMP!,KAITO,29,無,3D,2023/10/23,https://www.youtube.com/results?search_query=%E6%82%AA%E5%BD%B9%E3%81%AB%E3%82%AD%E3%82%B9%E3%82%B7%E3%83%BC%E3%83%B3%E3%82%92%2040mP
+22017,書き下ろし,はぐ,MIMI,MORE MORE JUMP!,鏡音レン,29,有,2D,2023/10/31,https://www.youtube.com/results?search_query=%E3%81%AF%E3%81%90%20MIMI
+12029,既存曲,さよならプリンセス,Kai,MORE MORE JUMP!,初音ミク,30,無,原曲/2D,2023/12/04,https://www.youtube.com/results?search_query=%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%20Kai
+12030,既存曲,くうになる,MIMI,MORE MORE JUMP!,MEIKO,29,無,原曲,2024/01/05,https://www.youtube.com/results?search_query=%E3%81%8F%E3%81%86%E3%81%AB%E3%81%AA%E3%82%8B%20MIMI
+22018,書き下ろし,MOTTO!!!,Junky,MORE MORE JUMP!,初音ミク,27,有,2D/3D,2024/01/15,https://www.youtube.com/results?search_query=MOTTO%21%21%21%20Junky
+22019,書き下ろし,JUMPIN’ OVER !,r-906,MORE MORE JUMP!,初音ミク,28,無,2D/3D,2024/02/27,https://www.youtube.com/results?search_query=JUMPIN%E2%80%99%20OVER%20%21%20r-906
+12031,既存曲,flos,R Sound Design,MORE MORE JUMP!,初音ミク,27,無,3D,2024/03/11,https://www.youtube.com/results?search_query=flos%20R%20Sound%20Design
+12032,既存曲,だめにんげんだ!,薄塩指数,MORE MORE JUMP!,初音ミク,30,無,原曲/2D,2024/05/24,https://www.youtube.com/results?search_query=%E3%81%A0%E3%82%81%E3%81%AB%E3%82%93%E3%81%92%E3%82%93%E3%81%A0%21%20%E8%96%84%E5%A1%A9%E6%8C%87%E6%95%B0
+22020,書き下ろし,Supernova,雄之助×春野,MORE MORE JUMP!,KAITO,28,有,2D/3D,2024/06/18,https://www.youtube.com/results?search_query=Supernova%20%E9%9B%84%E4%B9%8B%E5%8A%A9
+12033,既存曲,ポッピンキャンディ☆フィーバー！,キノシタ,MORE MORE JUMP!,鏡音リン,31,無,原曲,2024/07/01,https://www.youtube.com/results?search_query=%E3%83%9D%E3%83%83%E3%83%94%E3%83%B3%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%87%E3%82%A3%E2%98%86%E3%83%95%E3%82%A3%E3%83%BC%E3%83%90%E3%83%BC%EF%BC%81%20%E3%82%AD%E3%83%8E%E3%82%B7%E3%82%BF
+22021,書き下ろし,キラー,夏代孝明,MORE MORE JUMP!,鏡音リン,31,有,2D/3D,2024/08/07,https://www.youtube.com/results?search_query=%E3%82%AD%E3%83%A9%E3%83%BC%20%E5%A4%8F%E4%BB%A3%E5%AD%9D%E6%98%8E
+12034,既存曲,スーパーヒーロー,Guiano,MORE MORE JUMP!,鏡音リン,29,無,原曲/2D,2024/09/09,https://www.youtube.com/results?search_query=%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%20Guiano
+12035,既存曲,如月アテンション,じん,MORE MORE JUMP!,巡音ルカ,29,無,-,2024/10/03,https://www.youtube.com/results?search_query=%E5%A6%82%E6%9C%88%E3%82%A2%E3%83%86%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%81%98%E3%82%93
+12036,既存曲,キャットフード,doriko,MORE MORE JUMP!,初音ミク,28,無,原曲,2024/10/15,https://www.youtube.com/results?search_query=%E3%82%AD%E3%83%A3%E3%83%83%E3%83%88%E3%83%95%E3%83%BC%E3%83%89%20doriko
+12037,既存曲,妄想アスパルテーム,picco,MORE MORE JUMP!,MEIKO,30,無,原曲,2024/11/05,https://www.youtube.com/results?search_query=%E5%A6%84%E6%83%B3%E3%82%A2%E3%82%B9%E3%83%91%E3%83%AB%E3%83%86%E3%83%BC%E3%83%A0%20picco
+22022,書き下ろし,はしる! とおく! とどく!,薄塩指数,MORE MORE JUMP!,初音ミク,29,無,2D/3D,2024/12/19,https://www.youtube.com/results?search_query=%E3%81%AF%E3%81%97%E3%82%8B%21%20%E3%81%A8%E3%81%8A%E3%81%8F%21%20%E3%81%A8%E3%81%A9%E3%81%8F%21
+12038,既存曲,snooze,wotaku,MORE MORE JUMP!,鏡音レン,32,有,-,2025/01/02,https://www.youtube.com/results?search_query=snooze%20wotaku
+22023,書き下ろし,FUN!!,DECO*27,MORE MORE JUMP!,無し,29,無,2D,2025/01/31,https://www.youtube.com/results?search_query=FUN%21%21
+22024,書き下ろし,アンチユー,Chinozo,MORE MORE JUMP!,巡音ルカ,28,無,2D,2025/02/10,https://www.youtube.com/results?search_query=%E3%82%A2%E3%83%B3%E3%83%81%E3%83%A6%E3%83%BC
+12039,既存曲,オーバーライド,吉田夜世,MORE MORE JUMP!,鏡音リン,31,無,3D,2025/03/07,https://www.youtube.com/results?search_query=%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%89%20%E5%90%89%E7%94%B0%E5%A4%9C%E4%B8%96
+12040,既存曲,回る空うさぎ,Orangestar,MORE MORE JUMP!,巡音ルカ,26,無,-,2025/04/22,https://www.youtube.com/results?search_query=%E5%9B%9E%E3%82%8B%E7%A9%BA%E3%81%86%E3%81%95%E3%81%8E%20Orangestar
+22025,書き下ろし,イレヴンス,ポリスピカデリー,MORE MORE JUMP!,MEIKO,27,無,2D/3D,2025/05/29,https://www.youtube.com/results?search_query=%E3%82%A4%E3%83%AC%E3%83%B4%E3%83%B3%E3%82%B9
+22026,書き下ろし,ありのままのストーリーを,のぼる↑,MORE MORE JUMP!,KAITO,28,有,2D,2025/07/23,https://www.youtube.com/results?search_query=%E3%81%82%E3%82%8A%E3%81%AE%E3%81%BE%E3%81%BE%E3%81%AE%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%E3%82%92
+12041,既存曲,8.32,*Luna,MORE MORE JUMP!,鏡音レン,28,無,-,2025/09/01,https://www.youtube.com/results?search_query=8.32%20%2ALuna
+12042,既存曲,東京サマーセッション,HoneyWorks,MORE MORE JUMP!,MEIKO,30,無,3D,2025/10/03,https://www.youtube.com/results?search_query=%E6%9D%B1%E4%BA%AC%E3%82%B5%E3%83%9E%E3%83%BC%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%20HoneyWorks
+22027,書き下ろし,あなたの空が泣くのなら,ユジー,MORE MORE JUMP!,MEIKO,25,無,2D,2025/10/21,https://www.youtube.com/results?search_query=%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E7%A9%BA%E3%81%8C%E6%B3%A3%E3%81%8F%E3%81%AE%E3%81%AA%E3%82%89%20%E5%82%98%E6%9D%91%E3%83%88%E3%83%BC%E3%82%BF
+12043,既存曲,ルマ,かいりきベア,MORE MORE JUMP!,鏡音レン,30,無,3D,2025/11/04,https://www.youtube.com/results?search_query=%E3%83%AB%E3%83%9E%20%E3%81%8B%E3%81%84%E3%82%8A%E3%81%8D%E3%83%99%E3%82%A2
+22028,書き下ろし,Polar Star,烏屋茶房,MORE MORE JUMP!,鏡音レン,31,無,2D/3D,2025/12/29,https://www.youtube.com/results?search_query=Polar%20Star
+12044,既存曲,魔法少女とチョコレゐト,ピノキオピー,MORE MORE JUMP!,初音ミク,30,無,原曲,2026/01/01,https://www.youtube.com/results?search_query=%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E3%81%A8%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%82%90%E3%83%88%20%E3%83%94%E3%83%8E%E3%82%AD%E3%82%AA%E3%83%94%E3%83%BC
+12045,既存曲,erase or zero,クリスタルP,MORE MORE JUMP!,"鏡音レン, KAITO",29,無,原曲,2026/02/28,https://www.youtube.com/results?search_query=erase%20or%20zero%20%E3%82%AF%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%ABP
+22029,書き下ろし,カラフルファンデーション,みきとP,MORE MORE JUMP!,KAITO,29,無,2D,2026/03/10,https://www.youtube.com/results?search_query=%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3
+12046,既存曲,あなたしか見えないの,r-906,MORE MORE JUMP!,巡音ルカ,29,無,3D,2026/05/18,https://www.youtube.com/results?search_query=%E3%81%82%E3%81%AA%E3%81%9F%E3%81%97%E3%81%8B%E8%A6%8B%E3%81%88%E3%81%AA%E3%81%84%E3%81%AE
+22030,書き下ろし,Gimme more!,めろくる,MORE MORE JUMP!,初音ミク,28,有,2D,2026/06/30,https://www.youtube.com/results?search_query=Gimme%20more%21
+12047,既存曲,オツキミリサイタル,じん,MORE MORE JUMP!,鏡音リン,29,無,-,2026/08/11,https://www.youtube.com/results?search_query=%E3%82%AA%E3%83%84%E3%82%AD%E3%83%9F%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%BF%E3%83%AB%20%E3%81%98%E3%82%93
+22031,書き下ろし,スターダストレイン,STEAKA,MORE MORE JUMP!,KAITO,27,無,2D/3D,2026/08/15,https://www.youtube.com/results?search_query=%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%80%E3%82%B9%E3%83%88%E3%83%AC%E3%82%A4%E3%83%B3
+12048,既存曲,shake it!,emon(Tes.),MORE MORE JUMP!,鏡音リン,28,無,3D,2026/09/01,https://www.youtube.com/results?search_query=shake%20it%21%20emon%28Tes.%29
+12049,既存曲,LEMON MELON COOKIE,TAK,MORE MORE JUMP!,初音ミク,29,無,3D,2026/10/04,https://www.youtube.com/results?search_query=LEMON%20MELON%20COOKIE
+13001,既存曲,劣等上等,Giga,Vivid BAD SQUAD,"鏡音リン, 鏡音レン",30,有,3D,2020/09/30,
+13002,既存曲,ドクター＝ファンクビート,nyanyannya,Vivid BAD SQUAD,KAITO,32,無,2D,2020/09/30,
+13003,既存曲,フラジール,ぬゆり,Vivid BAD SQUAD,無し,28,有,2D/3D,2020/09/30,
+23001,書き下ろし,Ready Steady,Giga,Vivid BAD SQUAD,初音ミク,29,無,3D,2020/09/30,
+13004,既存曲,Just Be Friends,Dixie Flatline,Vivid BAD SQUAD,巡音ルカ,28,無,2D,2020/10/03,
+13005,既存曲,夜咄ディセイブ,じん,Vivid BAD SQUAD,鏡音レン,30,無,原曲,2020/10/09,
+23002,書き下ろし,Forward,R Sound Design,Vivid BAD SQUAD,初音ミク,28,無,2D/3D,2020/12/08,
+13006,既存曲,ECHO,Crusher-P,Vivid BAD SQUAD,巡音ルカ,26,有,2D/3D,2021/01/02,
+23003,書き下ろし,RAD DOGS,八王子P,Vivid BAD SQUAD,初音ミク,30,有,2D,2021/01/31,
+13007,既存曲,drop pop candy,Giga,Vivid BAD SQUAD,"鏡音リン, 巡音ルカ",29,無,3D,2021/02/15,
+13008,既存曲,威風堂々,梅とら,Vivid BAD SQUAD,KAITO,28,有,2D/3D,2021/03/15,
+13009,既存曲,幽霊東京,Ayase,Vivid BAD SQUAD,KAITO,27,無,-,2021/05/03,
+23004,書き下ろし,シネマ,Ayase,Vivid BAD SQUAD,KAITO,29,有,2D/3D,2021/05/08,
+13010,既存曲,トラフィック・ジャム,煮ル果実,Vivid BAD SQUAD,鏡音リン,28,無,原曲/2D,2021/06/30,
+23005,書き下ろし,Beat Eater,ポリスピカデリー,Vivid BAD SQUAD,鏡音レン,29,有,2D,2021/07/09,
+13011,既存曲,チルドレンレコード,じん,Vivid BAD SQUAD,鏡音レン,32,有,3D,2021/08/23,
+13012,既存曲,悪魔の踊り方,キタニタツヤ,Vivid BAD SQUAD,鏡音リン,31,無,2D/3D,2021/10/08,
+13013,既存曲,オルターエゴ,Misumi,Vivid BAD SQUAD,初音ミク,31,無,2D,2021/11/10,
+23006,書き下ろし,ミライ,有機酸,Vivid BAD SQUAD,巡音ルカ,28,無,2D/3D,2021/12/29,
+13014,既存曲,ガランド,ピコン,Vivid BAD SQUAD,鏡音レン,28,無,-,2022/01/03,
+13015,既存曲,踊,Giga / TeddyLoid,Vivid BAD SQUAD,無し,29,無,原曲,2022/02/04,
+23007,書き下ろし,Flyer!,Chinozo,Vivid BAD SQUAD,鏡音レン,29,有,2D/3D,2022/02/16,
+13016,既存曲,雨とペトラ,バルーン,Vivid BAD SQUAD,鏡音レン,29,無,-,2022/03/22,
+13017,既存曲,PaⅢ.SENSATION,雄之助,Vivid BAD SQUAD,"初音ミク, 鏡音リン",29,無,2D/3D,2022/04/18,
+23008,書き下ろし,月光,キタニタツヤ / はるまきごはん,Vivid BAD SQUAD,MEIKO,29,無,2D,2022/05/20,
+23009,書き下ろし,Awake Now,雄之助,Vivid BAD SQUAD,初音ミク,30,有,2D,2022/05/31,
+13018,既存曲,阿吽のビーツ,羽生まゐご,Vivid BAD SQUAD,無し,29,無,原曲,2022/06/06,
+23010,書き下ろし,街,jon-YAKITORY,Vivid BAD SQUAD,鏡音リン,27,無,2D/3D,2022/07/19,
+13019,既存曲,YY,23.exe,Vivid BAD SQUAD,初音ミク,29,有,原曲,2022/08/22,
+23011,書き下ろし,虚ろを扇ぐ,獅子志司,Vivid BAD SQUAD,KAITO,27,有,2D,2022/09/20,
+13020,既存曲,DAYBREAK FRONTLINE,Orangestar,Vivid BAD SQUAD,初音ミク,29,有,2D/3D,2022/10/10,
+13021,既存曲,帝国少女,R Sound Design,Vivid BAD SQUAD,初音ミク,28,無,2D,2022/11/01,
+23012,書き下ろし,仮死化,遼遼,Vivid BAD SQUAD,MEIKO,28,有,2D/3D,2022/12/19,
+13022,既存曲,フェレス,栗山夕璃,Vivid BAD SQUAD,初音ミク,30,有,原曲/2D,2023/01/05,
+23013,書き下ろし,ひつじがいっぴき,Peg,Vivid BAD SQUAD,MEIKO,28,無,2D,2023/02/19,
+13023,既存曲,エゴイスト,大沼パセリ,Vivid BAD SQUAD,MEIKO,31,無,2D/3D,2023/03/13,
+13024,既存曲,絶え間なく藍色,獅子志司,Vivid BAD SQUAD,KAITO,28,無,原曲,2023/04/21,
+13025,既存曲,シャンティ,wotaku,Vivid BAD SQUAD,KAITO,30,無,原曲,2023/05/19,
+23014,書き下ろし,下剋上,Misumi,Vivid BAD SQUAD,鏡音リン,30,無,2D,2023/06/10,
+13026,既存曲,脳内革命ガール,MARETU,Vivid BAD SQUAD,初音ミク,31,無,3D,2023/07/24,
+23015,書き下ろし,リアライズ,柊マグネタイト,Vivid BAD SQUAD,初音ミク,29,無,2D/3D,2023/08/19,
+13027,既存曲,恋は戦争,ryo,Vivid BAD SQUAD,初音ミク,27,無,-,2023/10/06,
+23016,書き下ろし,CR詠ZY,梅とら,Vivid BAD SQUAD,巡音ルカ,28,無,2D,2023/10/12,
+13028,既存曲,春嵐,john,Vivid BAD SQUAD,MEIKO,30,無,原曲/2D,2023/11/06,
+23017,書き下ろし,Beyond the way,Giga,Vivid BAD SQUAD,初音ミク,28,有,2D/3D,2023/12/08,
+13029,既存曲,金木犀,くじら,Vivid BAD SQUAD,鏡音レン,29,無,原曲,2023/12/30,
+13030,既存曲,マーシャル・マキシマイザー,柊マグネタイト,Vivid BAD SQUAD,巡音ルカ,29,無,2D/3D,2024/01/29,
+13031,既存曲,え？あぁ、そう。,蝶々P,Vivid BAD SQUAD,初音ミク,30,無,-,2024/02/01,
+23018,書き下ろし,blender,こめだわら×R sound Design,Vivid BAD SQUAD,MEIKO,27,無,2D/3D,2024/03/28,
+13032,既存曲,酔いどれ知らず,Kanaria,Vivid BAD SQUAD,MEIKO,28,有,2D/3D,2024/04/15,
+23019,書き下ろし,烈火,niki,Vivid BAD SQUAD,巡音ルカ,27,無,2D,2024/04/30,
+23020,書き下ろし,ULTRA C,Giga / TeddyLoid,Vivid BAD SQUAD,初音ミク,28,無,2D/3D,2024/07/07,
+13033,既存曲,WAVE,niki,Vivid BAD SQUAD,巡音ルカ,28,有,-,2024/08/13,
+13034,既存曲,コールボーイ,syudou,Vivid BAD SQUAD,初音ミク,29,無,2D,2024/10/05,
+23021,書き下ろし,フューエル,鬱P,Vivid BAD SQUAD,KAITO,29,無,2D/3D,2024/10/29,
+13035,既存曲,花溺れ,shikisai,Vivid BAD SQUAD,初音ミク,29,無,-,2024/12/23,
+13036,既存曲,CH4NGE,Giga,Vivid BAD SQUAD,鏡音リン,28,無,原曲,2025/01/01,
+23022,書き下ろし,ヘイヴン,煮ル果実,Vivid BAD SQUAD,鏡音レン,30,無,2D/3D,2025/01/19,
+23023,書き下ろし,ファイアダンス,DECO*27,Vivid BAD SQUAD,無し,29,無,2D,2025/01/25,
+13037,既存曲,ルーマー,ポリスピカデリー,Vivid BAD SQUAD,KAITO,28,無,3D,2025/02/21,
+13038,既存曲,三日月ステップ,r-906,Vivid BAD SQUAD,MEIKO,28,無,原曲,2025/03/03,
+13039,既存曲,花に風,バルーン,Vivid BAD SQUAD,初音ミク,28,無,3D,2025/04/08,
+13040,既存曲,紗痲,煮ル果実,Vivid BAD SQUAD,鏡音レン,30,無,-,2025/05/09,
+23024,書き下ろし,光線歌,Guiano,Vivid BAD SQUAD,初音ミク,28,無,2D,2025/05/31,
+23025,書き下ろし,アクセラレイト,吉田夜生,Vivid BAD SQUAD,巡音ルカ,31,有,2D/3D,2025/08/06,
+13041,既存曲,Surges,Orangestar,Vivid BAD SQUAD,巡音ルカ,29,無,-,2025/08/12,
+13042,既存曲,偽物人間40号,¿?shimon,Vivid BAD SQUAD,MEIKO,29,無,3D,2025/09/24,
+13043,既存曲,ハウトゥー世界征服,Neru,Vivid BAD SQUAD,"鏡音リン, 鏡音レン",29,無,-,2025/10/05,
+23026,書き下ろし,ファイター,jon-YAKITORY,Vivid BAD SQUAD,鏡音レン,28,無,2D,2025/11/20,
+13044,既存曲,ヤンキーボーイ・ヤンキーガール,トーマ,Vivid BAD SQUAD,KAITO,31,無,3D,2025/12/31,
+23027,書き下ろし,透過する温度,ササノマリイ,Vivid BAD SQUAD,KAITO,29,無,2D,2026/01/21,
+13045,既存曲,About me,蝶々P,Vivid BAD SQUAD,初音ミク,29,無,3D,2026/03/01,
+13046,既存曲,バイオレンストリガー,八王子P,Vivid BAD SQUAD,初音ミク,31,無,2D,2026/03/14,
+23028,書き下ろし,CRASH THE PARTY,KIRA,Vivid BAD SQUAD,巡音ルカ,29,無,2D/3D,2026/04/16,
+23029,書き下ろし,羽歌,遼遼,Vivid BAD SQUAD,KAITO,28,有,2D,2026/05/08,
+13047,既存曲,永遠甚だしい,獅子志司,Vivid BAD SQUAD,巡音ルカ,30,無,3D,2026/06/12,
+13048,既存曲,ハナタバ,MIMI,Vivid BAD SQUAD,MEIKO,28,無,-,2026/07/13,
+13049,既存曲,ロスタイムメモリー,じん,Vivid BAD SQUAD,KAITO,31,無,-,2026/08/12,
+23030,書き下ろし,正解,雨良,Vivid BAD SQUAD,鏡音リン,31,無,2D,2026/09/06,
+13050,既存曲,デーモンロード,Kanaria,Vivid BAD SQUAD,鏡音レン,29,無,3D,2026/10/06,
+14001,既存曲,ブリキノダンス,日向電工,ワンダショ,鏡音レン,30,無,2D/3D,2020/09/30,
+14002,既存曲,スイートマジック,Junky,ワンダショ,鏡音リン,27,有,2D/3D,2020/09/30,
+14003,既存曲,ぼうけんのしょがきえました！,ワンダフル☆オポチュニティ！,ワンダショ,"鏡音リン, 鏡音レン",31,無,原曲/2D,2020/09/30,
+24001,書き下ろし,セカイはまだ始まってすらいない,ピノキオピー,ワンダショ,初音ミク,29,無,3D,2020/09/30,
+14004,既存曲,脱法ロック,Neru,ワンダショ,鏡音レン,31,無,原曲/2D,2020/10/04,
+14005,既存曲,ダンスロボットダンス,ナユタン星人,ワンダショ,初音ミク,30,無,2D/3D,2020/10/07,
+14006,既存曲,ミラクルペイント,OSTER project,ワンダショ,初音ミク,30,無,原曲/2D/3D,2020/10/13,
+24002,書き下ろし,potatoになっていく,Neru,ワンダショ,初音ミク,29,有,2D/3D,2020/11/07,
+24003,書き下ろし,ニジイロストーリーズ,OSTER project,ワンダショ,"MEIKO, KAITO",29,無,2D,2020/12/20,
+14007,既存曲,チュルリラ・チュルリラ・ダッダッダ！,和田たけあき(くらげP),ワンダショ,無し,31,無,2D/3D,2021/01/03,
+14008,既存曲,ポジティブ☆ダンスタイム,キノシタ,ワンダショ,鏡音リン,31,無,2D,2021/02/19,
+24004,書き下ろし,ワンスアポンアドリーム,YASUHIRO(康寛),ワンダショ,鏡音レン,28,有,2D,2021/02/28,
+14009,既存曲,お気に召すまま,Eve,ワンダショ,鏡音レン,29,有,3D,2021/04/05,
+14010,既存曲,KING,Kanaria,ワンダショ,無し,30,有,2D,2021/05/17,
+24005,書き下ろし,トンデモワンダーズ,sasakure.UK,ワンダショ,KAITO,32,有,2D/3D,2021/06/19,
+24006,書き下ろし,Glory Steady Go!,キノシタ,ワンダショ,巡音ルカ,30,無,2D,2021/08/20,
+14011,既存曲,テレキャスタービーボーイ,すりぃ,ワンダショ,鏡音レン,29,有,原曲/2D,2021/10/06,
+24007,書き下ろし,ショウタイム・ルーラー,烏屋茶房,ワンダショ,鏡音リン,31,有,2D/3D,2021/10/29,
+14012,既存曲,フィクサー,ぬゆり,ワンダショ,無し,32,無,2D,2021/12/28,
+24008,書き下ろし,にっこり^^調査隊のテーマ,ワンダフル☆オポチュニティ！,ワンダショ,初音ミク,31,無,2D/3D,2022/01/19,
+14013,既存曲,ナンセンス文学,Eve,ワンダショ,鏡音レン,29,無,原曲/2D,2022/02/24,
+14014,既存曲,いーあるふぁんくらぶ,みきとP,ワンダショ,鏡音リン,28,有,2D/3D,2022/03/14,
+24009,書き下ろし,88☆彡,まらしぃ / kemu,ワンダショ,KAITO,29,有,2D,2022/04/11,
+14015,既存曲,リモコン,ワンダフル☆オポチュニティ！,ワンダショ,"鏡音リン, 鏡音レン",29,無,-,2022/05/16,
+14016,既存曲,神のまにまに,れるりり,ワンダショ,初音ミク,29,無,3D,2022/05/30,
+14017,既存曲,グッバイ宣言,Chinozo,ワンダショ,無し,30,有,2D,2022/06/13,
+24010,書き下ろし,星空のメロディー,ぽりふぉ,ワンダショ,MEIKO,27,無,2D/3D,2022/06/28,
+14018,既存曲,エイリアンエイリアン,ナユタン星人,ワンダショ,初音ミク,29,無,2D,2022/07/11,
+14019,既存曲,踊れオーケストラ,YASUHIRO(康寛),ワンダショ,巡音ルカ,28,無,2D,2022/08/08,
+14020,既存曲,エゴロック,すりぃ,ワンダショ,鏡音レン,31,無,3D,2022/10/06,
+14021,既存曲,ラブカ？,柊キライ,ワンダショ,MEIKO,29,無,3D,2022/11/14,
+14022,既存曲,ネトゲ廃人シュプレヒコール,さつき が てんこもり,ワンダショ,初音ミク,31,無,-,2022/12/30,
+24011,書き下ろし,星空オーケストラ,水野あつ,ワンダショ,巡音ルカ,29,無,3D,2023/01/19,
+14023,既存曲,1925,T-POCKET,ワンダショ,初音ミク,28,無,-,2023/02/15,
+24012,書き下ろし,Mr. Showtime,ひとしずく×やま△,ワンダショ,巡音ルカ,31,無,2D,2023/03/11,
+14024,既存曲,おこちゃま戦争,Giga,ワンダショ,"鏡音リン, 鏡音レン",31,無,3D,2023/04/17,
+24013,書き下ろし,箱庭のコラル,koyori（電ポルP）,ワンダショ,KAITO,27,有,3D,2023/05/29,
+14025,既存曲,嗚呼、素晴らしきニャン生,Nem,ワンダショ,鏡音レン,29,無,原曲/2D,2023/06/12,
+14026,既存曲,太陽系デスコ,ナユタン星人,ワンダショ,初音ミク,28,無,原曲,2023/07/12,
+24014,書き下ろし,キラピピ★キラピカ,nyanyannya(大天才P),ワンダショ,MEIKO,27,無,2D,2023/08/21,
+14027,既存曲,すきなことだけでいいです,ピノキオピー,ワンダショ,初音ミク,31,無,3D,2023/10/08,
+14028,既存曲,我儘姫,ふじを,ワンダショ,初音ミク,30,無,-,2023/10/25,
+24015,書き下ろし,フィラメントフィーバー,栗山夕璃,ワンダショ,MEIKO,29,無,2D/3D,2023/11/28,
+14029,既存曲,強風オールバック,ゆこぴ,ワンダショ,鏡音リン,28,無,原曲/2D,2024/01/01,
+24016,書き下ろし,サイバーパンクデッドボーイ,マイキP,ワンダショ,鏡音リン,30,無,2D,2024/01/23,
+24017,書き下ろし,世界を照らすテトラッド,OSTER project,ワンダショ,初音ミク,31,有,2D/3D,2024/02/09,
+14030,既存曲,古書屋敷殺人事件,てにをは,ワンダショ,KAITO,28,無,-,2024/02/22,
+14031,既存曲,1000年生きてる,いよわ,ワンダショ,巡音ルカ,28,無,3D,2024/03/25,
+14032,既存曲,おちゃめ機能,ゴジマジP,ワンダショ,鏡音レン,30,無,-,2024/05/07,
+24018,書き下ろし,オペラ！スペースオペラ！,ナユタン星人,ワンダショ,鏡音レン,30,有,2D/3D,2024/05/29,
+14033,既存曲,きょうもハレバレ,ふわりP,ワンダショ,鏡音リン,28,無,原曲,2024/06/10,
+24019,書き下ろし,成敗いたAAAAAす！,ワンダフル☆オポチュニティ！,ワンダショ,巡音ルカ,31,無,2D/3D,2024/07/15,
+14034,既存曲,QUEEN,Kanaria,ワンダショ,MEIKO,29,無,原曲,2024/08/26,
+14035,既存曲,ちがう!!!,カルロス袴田(サイゼP),ワンダショ,初音ミク,31,無,3D,2024/09/02,
+14036,既存曲,転生林檎,ピノキオピー,ワンダショ,初音ミク,29,無,原曲,2024/10/07,
+24020,書き下ろし,ぼくのかみさま,羽生まゐご,ワンダショ,鏡音レン,28,有,2D,2024/11/20,
+14037,既存曲,混沌ブギ,jon-YAKITORY,ワンダショ,KAITO,30,有,3D,2024/12/29,
+14038,既存曲,厨病激発ボーイ,れるりり,ワンダショ,鏡音レン,32,無,-,2025/01/14,
+24021,書き下ろし,スマイル*シンフォニー,DECO*27,ワンダショ,無し,28,無,2D,2025/02/03,
+14039,既存曲,ライアーダンサー,マサラダ,ワンダショ,KAITO,31,無,3D,2025/03/10,
+14040,既存曲,ドレミファロンド,40mP,ワンダショ,巡音ルカ,27,無,原曲,2025/03/24,
+24022,書き下ろし,オールセーブチャレンジ,香椎モイミ,ワンダショ,KAITO,30,無,2D/3D,2025/04/28,
+14041,既存曲,とうほう☆ワンダーランド,ビートまりお×まろん,ワンダショ,"初音ミク, KAITO",31,有,2D,2025/05/04,
+14042,既存曲,このふざけた素晴らしき世界は、僕の為にある,n.k,ワンダショ,MEIKO,29,無,-,2025/06/09,
+24023,書き下ろし,アイリッド,ぬゆり,ワンダショ,巡音ルカ,29,無,2D/3D,2025/07/13,
+24024,書き下ろし,サヨナラ天国また来て地獄,john,ワンダショ,初音ミク,30,無,2D,2025/08/30,
+14043,既存曲,人マニア,原口沙輔,ワンダショ,KAITO,30,無,-,2025/10/07,
+24025,書き下ろし,征け,せきこみごはん,ワンダショ,鏡音リン,28,無,2D/3D,2025/11/17,
+14044,既存曲,い〜やい〜やい〜や,Neru,ワンダショ,鏡音リン,27,無,-,2025/12/15,
+14045,既存曲,惑星ループ,ナユタン星人,ワンダショ,鏡音レン,29,有,-,2026/01/03,
+24026,書き下ろし,とびだせ！わんだぴょい,なみぐる,ワンダショ,鏡音リン,29,無,2D,2026/02/19,
+24027,書き下ろし,傀儡のうつつ,獅子志司,ワンダショ,MEIKO,29,有,2D,2026/03/30,
+14046,既存曲,魔法少女幸福論,トーマ,ワンダショ,MEIKO,31,無,-,2026/05/02,
+14047,既存曲,卑怯戦隊うろたんだー,シンP,ワンダショ,KAITO,31,無,3D,2026/05/11,
+24028,書き下ろし,オールイン・ワン,和田たけあき(くらげP),ワンダショ,鏡音レン,30,無,2D,2026/06/20,
+14048,既存曲,天才ロック,カラスヤサボウ,ワンダショ,鏡音リン,30,無,3D,2026/07/01,
+14049,既存曲,空想フォレスト,じん,ワンダショ,巡音ルカ,29,無,-,2026/08/13,
+24029,書き下ろし,ヘレディティ,サツキ,ワンダショ,巡音ルカ,30,無,2D,2026/09/14,
+15001,既存曲,シャルル,バルーン,25時、ナイトコードで。,無し,28,有,3D,2020/09/30,
+15002,既存曲,ハロ／ハワユ,ナノウ,25時、ナイトコードで。,初音ミク,27,無,-,2020/09/30,
+15003,既存曲,自傷無色,ササノマリイ,25時、ナイトコードで。,初音ミク,26,無,2D/3D,2020/09/30,
+25001,書き下ろし,悔やむと書いてミライ,まふまふ,25時、ナイトコードで。,初音ミク,30,無,3D,2020/09/30,
+15004,既存曲,命に嫌われている,カンザキイオリ,25時、ナイトコードで。,初音ミク,30,無,2D,2020/10/05,
+25002,書き下ろし,携帯恋話,まふまふ,25時、ナイトコードで。,初音ミク,29,無,2D,2020/10/15,
+25003,書き下ろし,ジャックポットサッドガール,syudou,25時、ナイトコードで。,初音ミク,29,無,原曲/2D,2020/10/20,
+15005,既存曲,乙女解剖,DECO*27,25時、ナイトコードで。,初音ミク,28,無,原曲/2D,2020/11/01,
+15006,既存曲,独りんぼエンヴィー,koyori（電ポルP）,25時、ナイトコードで。,初音ミク,26,無,2D/3D,2020/12/14,
+15007,既存曲,とても痛い痛がりたい,EZFG,25時、ナイトコードで。,初音ミク,28,有,-,2021/01/05,
+25004,書き下ろし,限りなく灰色へ,すりぃ,25時、ナイトコードで。,鏡音リン,31,無,3D,2021/02/26,
+15008,既存曲,ボッカデラベリタ,柊キライ,25時、ナイトコードで。,無し,29,無,2D,2021/03/06,
+25005,書き下ろし,アイディスマイル,とあ,25時、ナイトコードで。,MEIKO,28,有,2D/3D,2021/04/19,
+15009,既存曲,夜に駆ける,Ayase,25時、ナイトコードで。,初音ミク,30,無,-,2021/05/01,
+25006,書き下ろし,カナデトモスソラ,ササノマリイ,25時、ナイトコードで。,巡音ルカ,26,有,2D,2021/06/21,
+15010,既存曲,ビターチョコデコレーション,syudou,25時、ナイトコードで。,初音ミク,32,無,2D/3D,2021/07/28,
+15011,既存曲,カトラリー,有機酸,25時、ナイトコードで。,初音ミク,29,無,原曲/2D,2021/09/21,
+25007,書き下ろし,再生,ピコン,25時、ナイトコードで。,鏡音リン,26,無,2D/3D,2021/09/29,
+15012,既存曲,ベノム,かいりきベア,25時、ナイトコードで。,無し,29,無,-,2021/10/04,
+25008,書き下ろし,ロウワー,ぬゆり,25時、ナイトコードで。,MEIKO,31,有,2D,2021/10/31,
+15013,既存曲,ヴィラン,てにをは,25時、ナイトコードで。,無し,29,無,2D/3D,2021/12/31,
+25009,書き下ろし,トリコロージュ,煮ル果実,25時、ナイトコードで。,初音ミク,28,無,2D,2022/01/21,
+15014,既存曲,うっせぇわ,syudou,25時、ナイトコードで。,無し,28,無,原曲,2022/01/31,
+15015,既存曲,愛して愛して愛して,きくお,25時、ナイトコードで。,初音ミク,28,無,2D/3D,2022/02/07,
+25010,書き下ろし,ノマド,バルーン,25時、ナイトコードで。,鏡音リン,26,有,2D/3D,2022/03/28,
+15016,既存曲,妄想感傷代償連盟,DECO*27,25時、ナイトコードで。,初音ミク,27,有,原曲/2D,2022/05/13,
+25011,書き下ろし,バグ,かいりきベア,25時、ナイトコードで。,鏡音レン,32,有,2D,2022/06/10,
+15017,既存曲,メリュー,n-buna,25時、ナイトコードで。,初音ミク,26,無,3D,2022/07/04,
+25012,書き下ろし,君の夜をくれ,古川本舗,25時、ナイトコードで。,巡音ルカ,26,無,3D,2022/08/29,
+15018,既存曲,ジェヘナ,wotaku,25時、ナイトコードで。,初音ミク,31,有,原曲/2D,2022/09/12,
+15019,既存曲,フォニイ,ツミキ,25時、ナイトコードで。,MEIKO,29,無,2D/3D,2022/10/03,
+15020,既存曲,泥中に咲く,針原翼（はりーP）,25時、ナイトコードで。,初音ミク,26,無,2D,2022/10/28,
+25013,書き下ろし,Iなんです,れるりり,25時、ナイトコードで。,初音ミク,31,有,2D,2022/11/20,
+15021,既存曲,ノンブレス・オブリージュ,ピノキオピー,25時、ナイトコードで。,初音ミク,31,有,3D,2022/12/05,
+15022,既存曲,それがあなたの幸せとしても,Heavenz,25時、ナイトコードで。,巡音ルカ,26,無,2D,2023/01/03,
+15023,既存曲,アイロニ,すこっぷ,25時、ナイトコードで。,鏡音レン,28,無,原曲,2023/02/13,
+25014,書き下ろし,ザムザ,てにをは,25時、ナイトコードで。,KAITO,30,有,2D/3D,2023/03/28,
+15024,既存曲,命ばっかり,ぬゆり,25時、ナイトコードで。,MEIKO,28,無,-,2023/04/24,
+25015,書き下ろし,キティ,ツミキ,25時、ナイトコードで。,鏡音レン,31,無,2D,2023/04/30,
+15025,既存曲,とても素敵な六月でした,Eight,25時、ナイトコードで。,初音ミク,29,無,3D,2023/06/26,
+25016,書き下ろし,演劇,ナノウ,25時、ナイトコードで。,巡音ルカ,28,無,3D,2023/07/19,
+15026,既存曲,心做し,蝶々P,25時、ナイトコードで。,鏡音レン,26,無,-,2023/08/28,
+15027,既存曲,神っぽいな,ピノキオピー,25時、ナイトコードで。,初音ミク,29,無,原曲/2D,2023/10/10,
+25017,書き下ろし,トワイライトライト,とあ,25時、ナイトコードで。,初音ミク,26,有,2D/3D,2023/11/01,
+15028,既存曲,キュートなカノジョ,syudou,25時、ナイトコードで。,巡音ルカ,30,無,原曲,2023/11/22,
+15029,既存曲,スロウダウナー,ろくろ,25時、ナイトコードで。,初音ミク,30,無,原曲,2023/12/25,
+25018,書き下ろし,25時の情熱,カンザキイオリ,25時、ナイトコードで。,KAITO,25,無,2D/3D,2023/12/29,
+15030,既存曲,エンヴィーベイビー,Kanaria,25時、ナイトコードで。,鏡音リン,28,無,3D,2024/01/03,
+15031,既存曲,ラグトレイン,稲葉曇,25時、ナイトコードで。,MEIKO,27,有,原曲/2D,2024/02/29,
+15032,既存曲,ド屑,なきそ,25時、ナイトコードで。,初音ミク,28,無,原曲,2024/03/04,
+25019,書き下ろし,私は雨,稲葉曇,25時、ナイトコードで。,鏡音レン,28,無,2D,2024/04/10,
+15033,既存曲,Bad Apple!! feat.SEKAI,ビートまりお×まろん×まらしぃ,25時、ナイトコードで。,初音ミク,29,有,2D,2024/05/04,
+15034,既存曲,熱異常,いよわ,25時、ナイトコードで。,KAITO,32,無,2D/3D,2024/05/17,
+25020,書き下ろし,エンパープル,はるまきごはん,25時、ナイトコードで。,鏡音リン,29,有,2D,2024/06/20,
+15035,既存曲,マインドブランド,MARETU,25時、ナイトコードで。,初音ミク,28,無,3D,2024/07/29,
+15036,既存曲,Shadow Shadow,Azari,25時、ナイトコードで。,鏡音レン,27,無,2D/3D,2024/10/09,
+25021,書き下ろし,化けの花,なきそ,25時、ナイトコードで。,KAITO,31,無,2D,2024/10/12,
+15037,既存曲,キャットラビング,香椎モイミ,25時、ナイトコードで。,巡音ルカ,30,無,2D/3D,2024/11/13,
+25022,書き下ろし,余花にみとれて,keeno,25時、ナイトコードで。,MEIKO,25,無,2D/3D,2024/12/09,
+15038,既存曲,サイハテ,小林オニキス,25時、ナイトコードで。,初音ミク,28,無,原曲,2025/01/05,
+25023,書き下ろし,そこに在る、光。,DECO*27,25時、ナイトコードで。,無し,27,無,2D,2025/01/28,
+25024,書き下ろし,D/N/A,Azari,25時、ナイトコードで。,鏡音リン,31,無,2D,2025/03/20,
+15039,既存曲,スーサイドパレヱド,ユリイ・カノン,25時、ナイトコードで。,KAITO,31,有,-,2025/04/14,
+25025,書き下ろし,虚無さん,¿?shimon,25時、ナイトコードで。,鏡音レン,29,無,2D/3D,2025/05/06,
+15040,既存曲,失敗作少女,かいりきベア,25時、ナイトコードで。,MEIKO,29,無,3D,2025/05/12,
+15041,既存曲,生きる,水野あつ,25時、ナイトコードで。,MEIKO,27,有,-,2025/07/28,
+25026,書き下ろし,飾って,大沼パセリ,25時、ナイトコードで。,鏡音レン,27,無,2D/3D,2025/08/28,
+15042,既存曲,あの夏が飽和する。,カンザキイオリ,25時、ナイトコードで。,"鏡音リン, 鏡音レン",28,無,-,2025/09/08,
+15043,既存曲,ロストアンブレラ,稲葉曇,25時、ナイトコードで。,鏡音リン,30,無,3D,2025/10/09,
+25027,書き下ろし,その絵の名前は,蝶々P,25時、ナイトコードで。,初音ミク,26,無,2D/3D,2025/11/08,
+15044,既存曲,鎖の少女-Re Alive-,のぼる↑,25時、ナイトコードで。,初音ミク,29,無,原曲,2026/01/06,
+25028,書き下ろし,幸福刑,LonePi,25時、ナイトコードで。,MEIKO,28,無,2D/3D,2026/01/19,
+15045,既存曲,ラヴィ,すりぃ,25時、ナイトコードで。,鏡音レン,30,無,2D,2026/03/15,
+25029,書き下ろし,告白,内緒のピアス,25時、ナイトコードで。,初音ミク,27,有,2D/3D,2026/03/28,
+15046,既存曲,Who?,Azari,25時、ナイトコードで。,鏡音レン,27,無,3D,2026/04/20,
+15047,既存曲,比較症候群,葵木ゴウ,25時、ナイトコードで。,KAITO,30,無,-,2026/05/22,
+15048,既存曲,プロポーズ,内緒のピアス,25時、ナイトコードで。,巡音ルカ,29,無,-,2026/06/01,
+25030,書き下ろし,光,水野あつ,25時、ナイトコードで。,MEIKO,29,無,2D,2026/07/09,
+15049,既存曲,アヤノの幸福理論,じん,25時、ナイトコードで。,MEIKO,27,無,-,2026/08/14,
+10001,既存曲,Tell Your World,kz(livetune),バーチャルシンガー,初音ミク,26,有,3D,2020/09/30,
+10002,既存曲,ネクストネスト,さつき が てんこもり,バーチャルシンガー,初音ミク,30,無,-,2020/09/30,
+10003,既存曲,メルト,ryo,バーチャルシンガー,初音ミク,29,無,-,2020/09/30,
+10004,既存曲,初音ミクの消失,cosMo@暴走P,バーチャルシンガー,初音ミク,35,無,-,2020/09/30,
+10005,既存曲,Blessing,halyosy,バーチャルシンガー,"初音ミク, 鏡音リン, 鏡音レン, 巡音ルカ, MEIKO, KAITO",27,無,原曲,2020/09/30,
+10006,公募曲,alive,市瀬るぽ,バーチャルシンガー,鏡音リン,27,無,-,2020/09/30,
+10007,既存曲,ワールドイズマイン,ryo,バーチャルシンガー,初音ミク,29,無,-,2020/10/06,
+10008,既存曲,Hand in Hand,kz(livetune),バーチャルシンガー,初音ミク,28,有,原曲,2020/10/08,
+10009,既存曲,Gimme×Gimme,八王子P × Giga,バーチャルシンガー,"初音ミク, 鏡音リン",29,無,-,2020/10/10,
+10010,既存曲,ジャンキーナイトタウンオーケストラ,すりぃ,バーチャルシンガー,鏡音レン,31,無,-,2020/10/12,
+10011,既存曲,on the rocks,OSTER project,バーチャルシンガー,"MEIKO, KAITO",27,無,-,2020/10/14,
+10012,既存曲,39みゅーじっく！,みきとP,バーチャルシンガー,初音ミク,28,有,原曲,2020/10/16,
+10013,既存曲,Leia - Remind,ゆよゆっぺ,バーチャルシンガー,巡音ルカ,29,無,-,2020/10/19,
+10014,既存曲,ローリンガール,wowaka,バーチャルシンガー,初音ミク,31,無,-,2020/11/14,
+10015,既存曲,裏表ラバーズ,wowaka,バーチャルシンガー,初音ミク,30,無,-,2020/11/21,
+10016,既存曲,アンノウン・マザーグース,wowaka,バーチャルシンガー,初音ミク,30,無,-,2020/11/23,
+10017,既存曲,愛されなくても君がいる,ピノキオピー,バーチャルシンガー,初音ミク,27,無,原曲,2020/11/30,
+10018,既存曲,ODDS＆ENDS,ryo,バーチャルシンガー,初音ミク,29,無,-,2020/12/24,
+10019,既存曲,グリーンライツ・セレナーデ,Omoi,バーチャルシンガー,初音ミク,31,無,原曲,2020/12/29,
+10020,既存曲,＊ハロー、プラネット。,sasakure.UK,バーチャルシンガー,初音ミク,29,無,原曲,2020/12/31,
+10021,既存曲,千本桜,黒うさP,バーチャルシンガー,初音ミク,32,有,3D,2021/01/01,
+10022,既存曲,ブレス・ユア・ブレス,和田たけあき,バーチャルシンガー,初音ミク,29,無,原曲,2021/01/04,
+10023,既存曲,ワールズエンド・ダンスホール,wowaka,バーチャルシンガー,"初音ミク, 巡音ルカ",30,無,-,2021/01/14,
+10024,既存曲,ヒビカセ,Giga,バーチャルシンガー,初音ミク,28,無,原曲,2021/01/18,
+10025,公募曲,Brand New Day,いるかアイス,バーチャルシンガー,初音ミク,32,有,-,2021/02/22,
+10026,既存曲,みくみくにしてあげる♪【してやんよ】,ika,バーチャルシンガー,初音ミク,28,有,-,2021/03/09,
+10027,既存曲,初音ミクの激唱,cosMo@暴走P,バーチャルシンガー,初音ミク,34,無,-,2021/03/30,
+10028,公募曲,花を唄う,シノ,バーチャルシンガー,初音ミク,30,無,-,2021/04/26,
+10029,公募曲,泡沫未来,加賀（ネギシャワーP）,バーチャルシンガー,初音ミク,30,有,-,2021/06/14,
+10030,公募曲,そうだった！！,タケノコ少年,バーチャルシンガー,初音ミク,31,無,-,2021/08/06,
+20001,書き下ろし,magic number,伊東 健人,バーチャルシンガー,初音ミク,30,無,2D,2021/09/01,
+10031,既存曲,炉心融解,iroha(sasaki),バーチャルシンガー,鏡音リン,27,無,-,2021/10/01,
+20002,書き下ろし,マシンガンポエムドール,cosMo@暴走P,バーチャルシンガー,初音ミク,35,無,原曲*6,2021/10/03,
+10032,既存曲,拝啓ドッペルゲンガー,kemu,バーチャルシンガー,その他,32,無,-,2021/10/05,
+10033,既存曲,トキヲ・ファンカ,takamatt,バーチャルシンガー,その他,28,有,原曲,2021/10/07,
+10034,既存曲,だれかの心臓になれたなら,ユリイ・カノン,バーチャルシンガー,その他,29,無,原曲,2021/10/09,
+10035,既存曲,右肩の蝶,のりぴー,バーチャルシンガー,鏡音レン,31,無,-,2021/10/11,
+10036,公募曲,しっくおぶはうす！,オゾン,バーチャルシンガー,"鏡音リン, 鏡音レン",30,無,-,2021/10/22,
+10037,既存曲,初音天地開闢神話,cosMo@暴走P,バーチャルシンガー,初音ミク,33,無,原曲,2021/11/05,
+10038,既存曲,悪ノ娘,mothy_悪ノP,バーチャルシンガー,鏡音リン,27,無,-,2021/12/13,
+10039,既存曲,悪ノ召使,mothy_悪ノP,バーチャルシンガー,鏡音レン,27,無,-,2021/12/14,
+20003,書き下ろし,去り人達のワルツ,mothy_悪ノP,バーチャルシンガー,,28,無,-,2021/12/15,
+10040,公募曲,ラストスコア,せきこみごはん,バーチャルシンガー,初音ミク,30,無,-,2021/12/20,
+10041,既存曲,サンドリヨン 10th Anniversary,Dios/シグナルP,バーチャルシンガー,"初音ミク, KAITO",29,無,-,2022/01/01,
+10042,既存曲,君色マリンスノウ,カルロス袴田(サイゼP),バーチャルシンガー,初音ミク,31,無,原曲,2022/02/05,
+10043,公募曲,ジウダス,すこやか大聖堂,バーチャルシンガー,KAITO,28,無,-,2022/02/21,
+10044,既存曲,Miku,Anamanaguchi,バーチャルシンガー,初音ミク,29,無,3D,2022/03/09,
+10045,既存曲,マトリョシカ,ハチ,バーチャルシンガー,"初音ミク, その他",30,無,原曲,2022/03/30,
+10046,既存曲,ドーナツホール 2024*7,ハチ,バーチャルシンガー,その他,29,有,原曲,2022/03/31,
+10047,既存曲,砂の惑星,ハチ,バーチャルシンガー,初音ミク,27,無,原曲,2022/04/01,
+10048,既存曲,ルカルカ★ナイトフィーバー,samfree,バーチャルシンガー,巡音ルカ,29,無,-,2022/04/02,
+10049,既存曲,ピアノ×フォルテ×スキャンダル,OSTER project,バーチャルシンガー,MEIKO,30,無,-,2022/04/03,
+10050,既存曲,千年の独奏歌,yanagi,バーチャルシンガー,KAITO,27,無,-,2022/04/04,
+10051,公募曲,ONESELF,Twinfield,バーチャルシンガー,初音ミク,30,有,-,2022/04/15,
+10052,既存曲,ブラック★ロックシューター,ryo,バーチャルシンガー,初音ミク,27,無,原曲,2022/05/10,
+10053,公募曲,未完成讃歌,しゃいと,バーチャルシンガー,初音ミク,31,無,-,2022/06/24,
+10054,既存曲,脳漿炸裂ガール,れるりり,バーチャルシンガー,"初音ミク, その他",32,無,原曲,2022/06/30,
+10055,既存曲,ぼくらの16bit戦争,sasakure.UK,バーチャルシンガー,その他,33,無,原曲,2022/07/01,
+10056,既存曲,フロイライン＝ビブリォチカ,nyanyannya(大天才P),バーチャルシンガー,MEIKO,31,無,-,2022/07/30,
+10057,公募曲,それでもいいんだよ,Ponchi ♪ ,バーチャルシンガー,初音ミク,29,無,-,2022/08/26,
+10058,既存曲,フューチャー・イヴ,sasakure.UK,バーチャルシンガー,初音ミク,32,無,原曲,2022/09/02,
+10059,既存曲,アンハッピーリフレイン,wowaka,バーチャルシンガー,初音ミク,31,無,-,2022/10/02,
+10060,既存曲,ダブルラリアット,アゴアニキ,バーチャルシンガー,巡音ルカ,27,有,-,2022/10/04,
+10061,既存曲,インビジブル,kemu,バーチャルシンガー,"鏡音リン, その他",32,無,-,2022/10/05,
+10062,既存曲,Bad ∞ End ∞ Night,ひとしずく×やま△,バーチャルシンガー,"初音ミク, 鏡音リン, 鏡音レン, 巡音ルカ, MEIKO, その他, KAITO",29,無,原曲,2022/10/07,
+10063,既存曲,こちら、幸福安心委員会です。,うたたP,バーチャルシンガー,初音ミク,28,無,-,2022/10/09,
+20004,書き下ろし,ÅMARA(大未来電脳),sasakure.UK,バーチャルシンガー,初音ミク,34,無,原曲*8,2022/10/11,
+10064,公募曲,いちにのさんで,Nogumi,バーチャルシンガー,初音ミク,26,有,-,2022/10/31,
+10065,既存曲,Change me,shu-t,バーチャルシンガー,MEIKO,28,無,-,2022/11/04,
+10066,既存曲,パラジクロロベンゼン,オワタP,バーチャルシンガー,"鏡音リン, 鏡音レン",28,無,-,2022/11/21,
+10067,既存曲,星屑ユートピア,otetsu,バーチャルシンガー,巡音ルカ,30,無,-,2022/11/25,
+10068,既存曲,あったかいと,halyosy,バーチャルシンガー,KAITO,29,無,-,2022/11/28,
+10069,公募曲,陽だまりのセツナ,赤乃わい,バーチャルシンガー,"初音ミク, 巡音ルカ",28,無,-,2022/12/12,
+10070,公募曲,What's up? Pop!,Capchii,バーチャルシンガー,初音ミク,37,無,-,2022/12/23,
+10071,既存曲,腐れ外道とチョコレゐト,ピノキオピー,バーチャルシンガー,初音ミク,35,無,-,2022/12/25,
+10072,既存曲,カンタレラ,黒うさP,バーチャルシンガー,"初音ミク, KAITO",29,無,原曲,2022/12/31,
+10073,既存曲,FREELY TOMORROW,Mitchie M,バーチャルシンガー,初音ミク,29,無,原曲,2023/01/01,
+10074,既存曲,リンちゃんなう！,オワタP,バーチャルシンガー,"初音ミク, 巡音ルカ",30,無,原曲,2023/01/04,
+10075,既存曲,夜明けと蛍,n-buna,バーチャルシンガー,初音ミク,26,有,-,2023/01/10,
+10076,既存曲,p.h.,SEVENTHLINKS,バーチャルシンガー,その他,29,無,原曲,2023/01/23,
+10077,既存曲,Goodbye,CircusP,バーチャルシンガー,初音ミク,26,無,原曲,2023/02/01,
+10078,既存曲,SnowMix♪,まらしぃ,バーチャルシンガー,初音ミク,30,無,原曲,2023/02/04,
+10079,公募曲,星界ちゃんと可不ちゃんのおつかい合騒曲,南ノ南,バーチャルシンガー,その他,32,無,-,2023/02/06,
+10080,公募曲,天使の翼。,A4。,バーチャルシンガー,その他,28,無,-,2023/02/07,
+10081,既存曲,Copycat,CircusP,バーチャルシンガー,その他,26,無,原曲,2023/02/10,
+10082,既存曲,レイニースノードロップ,Re:nG,バーチャルシンガー,KAITO,30,無,3D,2023/02/11,
+10083,公募曲,Where shall we go?,めろくる,バーチャルシンガー,"鏡音リン, 鏡音レン, 無し",26,無,-,2023/02/24,
+10084,既存曲,ココロ,トラボルタ,バーチャルシンガー,鏡音リン,28,無,-,2023/02/27,
+10085,既存曲,ストロボラスト,椎名もた,バーチャルシンガー,初音ミク,28,無,-,2023/02/28,
+10086,既存曲,パレットには君がいっぱい,椎名もた,バーチャルシンガー,初音ミク,28,無,-,2023/03/01,
+10087,既存曲,Q,椎名もた,バーチャルシンガー,鏡音リン,28,無,-,2023/03/02,
+10088,公募曲,ヤミナベ!!!!,cosMo@暴走P,バーチャルシンガー,初音ミク,37,無,-,2023/03/04,
+10089,既存曲,39,sasakure.UK × DECO*27,バーチャルシンガー,初音ミク,29,無,原曲,2023/03/09,
+10090,公募曲,エピローグに君はいない,佐藤原材料,バーチャルシンガー,初音ミク,26,無,-,2023/03/16,
+10091,既存曲,Highlight,KIRA,バーチャルシンガー,初音ミク,28,無,原曲,2023/03/20,
+10092,既存曲,トラッシュ・アンド・トラッシュ！,和田たけあき(くらげP),バーチャルシンガー,鏡音リン,31,無,原曲,2023/03/30,
+10093,既存曲,Vampire's ∞ pathoS,ひとしずく×やま△,バーチャルシンガー,鏡音レン,31,無,原曲,2023/03/31,
+10094,既存曲,METEOR,DIVELA,バーチャルシンガー,初音ミク,30,無,-,2023/04/01,
+10095,既存曲,インタビュア,クワガタP,バーチャルシンガー,巡音ルカ,26,無,原曲,2023/04/02,
+10096,既存曲,私の恋はヘルファイア,SLAVE.V-V-R,バーチャルシンガー,MEIKO,31,無,3D,2023/04/03,
+10097,既存曲,スノーマン,halyosy,バーチャルシンガー,KAITO,29,無,-,2023/04/04,
+10098,既存曲,魔法みたいなミュージック！,OSTER project,バーチャルシンガー,初音ミク,31,無,原曲,2023/04/10,
+10099,公募曲,名も無き革命,シアン・キノ,バーチャルシンガー,初音ミク,29,無,-,2023/04/14,
+10100,既存曲,悪食娘コンチータ,mothy_悪ノP,バーチャルシンガー,"鏡音リン, 鏡音レン, MEIKO",29,無,-,2023/05/03,
+10101,既存曲,眠らせ姫からの贈り物,mothy_悪ノP,バーチャルシンガー,初音ミク,27,無,-,2023/05/04,
+10102,既存曲,円尾坂の仕立屋,mothy_悪ノP,バーチャルシンガー,巡音ルカ,28,無,-,2023/05/05,
+10103,既存曲,悪徳のジャッジメント,mothy_悪ノP,バーチャルシンガー,KAITO,28,無,-,2023/05/06,
+10104,既存曲,Sharing The World,BIGHEAD,バーチャルシンガー,初音ミク,27,無,-,2023/05/12,
+10105,公募曲,エターナルアリア,Adeliae,バーチャルシンガー,初音ミク,30,無,-,2023/05/22,
+10106,既存曲,Blue Star,八王子P,バーチャルシンガー,初音ミク,29,無,原曲,2023/05/26,
+10107,公募曲,人生,gcmstyle（アンティン）,バーチャルシンガー,"初音ミク, 鏡音リン, 鏡音レン, 巡音ルカ, MEIKO, KAITO",37,無,-,2023/06/02,
+10108,既存曲,Wonder Style,colate,バーチャルシンガー,初音ミク,28,無,-,2023/06/07,
+10109,公募曲,スターダストメドレー,きさら,バーチャルシンガー,初音ミク,30,無,-,2023/06/16,
+10110,既存曲,UNDERWATER,Hylen,バーチャルシンガー,初音ミク,29,無,原曲,2023/06/28,
+10111,既存曲,Afterglow,ジミーサムP,バーチャルシンガー,巡音ルカ,27,無,3D,2023/07/07,
+10112,公募曲,心拍ペアリング,雪乃イト,バーチャルシンガー,初音ミク,28,無,-,2023/07/14,
+10113,既存曲,Decade,Dixie Flatline,バーチャルシンガー,初音ミク,30,無,-,2023/07/28,
+10114,公募曲,新人類,まらしぃ×じん×kemu,バーチャルシンガー,鏡音リン,31,無,-,2023/08/03,
+10115,公募曲,ずんだパーリナイ,なみぐる,バーチャルシンガー,その他,31,無,-,2023/08/04,
+10116,公募曲,Disco No.39,Rulmry.,バーチャルシンガー,初音ミク,30,無,-,2023/08/10,
+20005,書き下ろし,ボトルケーキ,ライブP,バーチャルシンガー,鏡音リン,28,無,-,2023/08/25,
+10117,既存曲,ブループラネット,DECO*27,バーチャルシンガー,初音ミク,30,無,3D,2023/08/31,
+10118,既存曲,HERO,Ayase,バーチャルシンガー,初音ミク,31,無,原曲,2023/09/01,
+10119,公募曲,CIRCUS PANIC!!!,サツキ,バーチャルシンガー,初音ミク,32,無,-,2023/09/04,
+20006,書き下ろし,Un-Lock,無力P,バーチャルシンガー,巡音ルカ,28,無,-,2023/09/19,
+10120,既存曲,ラッキー☆オーブ,emon(Tes.),バーチャルシンガー,初音ミク,28,無,原曲,2023/09/25,
+20007,書き下ろし,アイムマイン,halyosy,バーチャルシンガー,"初音ミク, 鏡音リン, 鏡音レン, 巡音ルカ, MEIKO, KAITO",29,有,3D,2023/10/01,
+10121,既存曲,まにまに,r-906,バーチャルシンガー,初音ミク,29,無,原曲,2023/10/03,
+10122,既存曲,豚になってyeah yeah,Neru,バーチャルシンガー,鏡音レン,28,無,3D,2023/10/05,
+10123,既存曲,デビルじゃないもん,DECO*27 × ピノキオピー,バーチャルシンガー,初音ミク,29,無,原曲,2023/10/07,
+10124,既存曲,番凩,仕事してP,バーチャルシンガー,"MEIKO, KAITO",27,無,-,2023/10/09,
+10125,既存曲,Dear,19 -iku-,バーチャルシンガー,初音ミク,28,無,-,2023/10/11,
+10126,公募曲,Cool Me Down,Mwk,バーチャルシンガー,巡音ルカ,29,無,-,2023/10/16,
+20008,書き下ろし,ARQETYPE,Sohbana,バーチャルシンガー,MEIKO,31,無,-,2023/11/10,
+10127,公募曲,On&On,めろくる,バーチャルシンガー,MEIKO,27,無,-,2023/11/13,
+20009,書き下ろし,ショウタイム×オーディエンス,瀬名航,バーチャルシンガー,初音ミク,30,無,-,2023/12/11,
+10128,既存曲,難聴系男子が倒せない,ラマーズP,バーチャルシンガー,鏡音リン,30,無,3D,2023/12/18,
+10129,公募曲,オーバーコード,いえぬ,バーチャルシンガー,初音ミク,30,無,-,2023/12/22,
+10130,既存曲,一千光年,いよわ,バーチャルシンガー,"初音ミク, その他",30,有,原曲,2023/12/31,
+10131,既存曲,ヒアソビ,かめりあ,バーチャルシンガー,初音ミク,31,無,原曲,2024/01/02,
+10132,既存曲,『んっあっあっ。』,SLAVE.V-V-R,バーチャルシンガー,初音ミク,28,無,原曲,2024/01/04,
+10133,公募曲,心泥夢(syndrome),宮守文学,バーチャルシンガー,初音ミク,31,無,-,2024/01/22,
+10134,公募曲,リレイアウター,稲葉曇,バーチャルシンガー,その他,30,無,-,2024/02/03,
+10135,公募曲,おどロボ,海茶,バーチャルシンガー,その他,29,無,-,2024/02/04,
+10136,既存曲,ハッピーチートデー,れるりり,バーチャルシンガー,初音ミク,26,無,原曲,2024/02/10,
+10137,公募曲,十六歳の心臓,TakoyakiKZY,バーチャルシンガー,初音ミク,31,無,-,2024/02/13,
+20010,書き下ろし,limbo,椎乃味醂,バーチャルシンガー,初音ミク,31,無,-,2024/02/16,
+10138,公募曲,明鏡止水,旅路,バーチャルシンガー,初音ミク,28,無,-,2024/03/08,
+10139,既存曲,ハジメテノオト,malo,バーチャルシンガー,初音ミク,26,無,-,2024/03/09,
+10140,公募曲,アコトバ,原口沙輔,バーチャルシンガー,初音ミク,29,無,-,2024/03/15,
+20011,書き下ろし,幽光、1/fのゆらめき,卯花ロク,バーチャルシンガー,初音ミク,29,無,-,2024/03/18,
+20012,書き下ろし,嬢王,八王子P,バーチャルシンガー,初音ミク,33,有,原曲,2024/03/22,
+10141,既存曲,えれくとりっく・えんじぇぅ,ヤスオ,バーチャルシンガー,初音ミク,29,無,-,2024/03/30,
+10142,既存曲,レッドランドマーカー,Twinfield,バーチャルシンガー,MEIKO,29,無,原曲,2024/03/31,
+10143,既存曲,あいのうた,大漠波新,バーチャルシンガー,"初音ミク, その他",29,無,-,2024/04/02,
+10144,既存曲,ガーネットの涙,香椎モイミ,バーチャルシンガー,KAITO,28,無,原曲,2024/04/03,
+10145,既存曲,だんだん早くなる,40mP,バーチャルシンガー,初音ミク,28,無,-,2024/04/04,
+10146,公募曲,おぎゃりないざー,Ponchi ♪,バーチャルシンガー,初音ミク,34,有,-,2024/04/19,
+10147,公募曲,シルバーコレクター,Shu,バーチャルシンガー,巡音ルカ,32,無,-,2024/04/22,
+10148,既存曲,"Help me, ERINNNNNN!!",ビートまりお×まろん,バーチャルシンガー,"初音ミク, 鏡音リン, 鏡音レン, 巡音ルカ, MEIKO, KAITO",30,有,原曲*9,2024/05/05,
+20013,書き下ろし,ときめきジェットコースター,picco,バーチャルシンガー,初音ミク,31,無,-,2024/05/10,
+10149,公募曲,I know 愛脳.,吉田夜世,バーチャルシンガー,初音ミク,31,無,-,2024/05/20,
+10150,公募曲,合成するミライ,阿修,バーチャルシンガー,初音ミク,30,無,-,2024/06/24,
+20014,書き下ろし,LEADER,香椎モイミ,バーチャルシンガー,KAITO,28,無,-,2024/06/28,
+10151,公募曲,ダイジョブですか？,cosMo@暴走P,バーチャルシンガー,初音ミク,34,有,-,2024/07/09,
+10152,公募曲,メリーゴーラウンド,加賀(ネギシャワーP),バーチャルシンガー,"初音ミク, KAITO",29,無,-,2024/07/22,
+10153,公募曲,イガク,原口沙輔,バーチャルシンガー,その他,31,無,-,2024/08/03,
+10154,公募曲,あちこちデートさん,駄菓子O型,バーチャルシンガー,その他,30,無,-,2024/08/04,
+10155,公募曲,彗星ノ銀河,彗星ノ銀河,バーチャルシンガー,初音ミク,26,無,-,2024/08/19,
+20015,書き下ろし,夏夜ノ唄,平田義久,バーチャルシンガー,鏡音レン,28,無,-,2024/08/23,
+10156,既存曲,アンテナ39,柊マグネタイト,バーチャルシンガー,初音ミク,30,無,原曲,2024/08/30,
+10157,既存曲,カルチャ,ツミキ,バーチャルシンガー,初音ミク,28,無,原曲,2024/09/13,
+10158,公募曲,レイヤーノート,吉田ヨシユキ,バーチャルシンガー,初音ミク,27,無,-,2024/09/17,
+20016,書き下ろし,Unpoison,袖野あらわ,バーチャルシンガー,初音ミク,28,無,-,2024/09/24,
+10159,既存曲,メズマライザー,サツキ,バーチャルシンガー,"初音ミク, その他",31,無,原曲,2024/10/02,
+10160,既存曲,メインキャラクター,*Luna,バーチャルシンガー,鏡音レン,29,無,原曲,2024/10/04,
+10161,既存曲,きみとぼくのレゾナンス,斜め上P,バーチャルシンガー,MEIKO,28,無,原曲,2024/10/06,
+10162,既存曲,Blackjack,ゆちゃP,バーチャルシンガー,巡音ルカ,31,無,-,2024/10/08,
+20017,書き下ろし,生命性シンドロウム,かめりあ,バーチャルシンガー,初音ミク,33,有,原曲,2024/10/10,
+10163,公募曲,メモリア,Aira,バーチャルシンガー,初音ミク,34,有,-,2024/10/21,
+10164,公募曲,脳天,ムラタシユウ,バーチャルシンガー,鏡音リン,27,無,-,2024/10/28,
+10165,公募曲,パリィ,宮守文学,バーチャルシンガー,"鏡音リン, 鏡音レン",31,無,-,2024/11/25,
+10166,既存曲,みかぼし,3106。,バーチャルシンガー,KAITO,30,無,-,2024/12/02,
+10167,公募曲,シークレット・シーカー,ヤマギシコージ,バーチャルシンガー,初音ミク,30,無,-,2024/12/16,
+20018,書き下ろし,はじまりの未来,,バーチャルシンガー,初音ミク,28,無,2D,2024/12/28,
+10168,既存曲,アンヘル,かいりきベア,バーチャルシンガー,その他,31,有,-,2024/12/30,
+10169,既存曲,プロトディスコ,ぬゆり,バーチャルシンガー,その他,32,有,-,2024/12/31,
+10170,既存曲,のだ,大漠波新,バーチャルシンガー,"初音ミク, その他",30,有,原曲,2025/01/04,
+10171,公募曲,夏に透明,Twinfield,バーチャルシンガー,初音ミク,28,無,-,2025/01/21,
+10172,既存曲,パンダヒーロー,ハチ,バーチャルシンガー,その他,30,無,-,2025/01/22,
+10173,既存曲,結ンデ開イテ羅刹ト骸,ハチ,バーチャルシンガー,初音ミク,29,無,-,2025/01/23,
+10174,既存曲,クリスタルスノウ,Aqu3ra,バーチャルシンガー,初音ミク,26,無,原曲,2025/02/08,
+20019,書き下ろし,ハローセカイ,,バーチャルシンガー,初音ミク,28,無,2D,2025/02/09,
+10175,公募曲,ルルブ,藤原ハガネ,バーチャルシンガー,初音ミク,31,無,-,2025/02/12,
+10176,既存曲,Packaged,kz(livetune),バーチャルシンガー,初音ミク,26,無,-,2025/03/09,
+10177,公募曲,プラネットヒーロー,打打だいず×いるかアイス,バーチャルシンガー,初音ミク,33,無,-,2025/03/14,
+10178,既存曲,Call!!,沫尾,バーチャルシンガー,KAITO,28,無,原曲,2025/03/31,
+10179,既存曲,吉原ラメント 再来盤,亜沙,バーチャルシンガー,その他,29,無,原曲,2025/04/02,
+10180,既存曲,マンハッタン,wotaku,バーチャルシンガー,MEIKO,32,無,-,2025/04/03,
+10181,既存曲,クイーンオブハート,奏音69,バーチャルシンガー,巡音ルカ,31,無,原曲,2025/04/04,
+10182,既存曲,バレリーコ,みきとP,バーチャルシンガー,その他,29,無,原曲,2025/04/05,
+10183,公募曲,星宙メランコリア,yuichi NAGAO,バーチャルシンガー,初音ミク,30,無,-,2025/04/18,
+10184,既存曲,チルノのパーフェクトさんすう学園,ビートまりお×まろん,バーチャルシンガー,"初音ミク, 鏡音リン, 鏡音レン, 巡音ルカ, MEIKO, KAITO, その他",31,有,原曲,2025/05/03,
+10185,公募曲,フィッシュアンドTips,ど～ぱみん,バーチャルシンガー,初音ミク,30,無,-,2025/05/19,
+10186,既存曲,Connecting,halyosy,バーチャルシンガー,"初音ミク, 鏡音リン, 鏡音レン, 巡音ルカ, MEIKO, KAITO",27,無,原曲,2025/05/23,
+10187,既存曲,テトリス,柊マグネタイト,バーチャルシンガー,その他,29,有,-,2025/06/02,
+10188,既存曲,モニタリング,DECO*27,バーチャルシンガー,初音ミク,29,無,原曲,2025/06/16,
+10189,公募曲,庭師のおはなしによると,いのうつはSA,バーチャルシンガー,初音ミク,31,無,-,2025/06/23,
+20020,書き下ろし,Twilight Melody,CitcusP,バーチャルシンガー,初音ミク,28,無,2D,2025/06/30,
+10190,既存曲,M@GICAL☆CURE! LOVE ♥ SHOT!,SAWTOWNE,バーチャルシンガー,初音ミク,30,無,原曲,2025/07/01,
+10191,既存曲,Hello Builder,鬱P,バーチャルシンガー,初音ミク,29,無,原曲,2025/07/02,
+10192,既存曲,imaginary love story,Synthion,バーチャルシンガー,初音ミク,31,無,原曲,2025/07/03,
+10193,既存曲,Intergalactic Bound,雄之助×CircusP,バーチャルシンガー,初音ミク,26,無,原曲,2025/07/04,
+10194,公募曲,笑えたらえーやん！,inno,バーチャルシンガー,"鏡音リン, 鏡音レン, その他",30,無,-,2025/07/07,
+10195,公募曲,エクスプロウル,晴いちばん,バーチャルシンガー,初音ミク,30,無,-,2025/07/18,
+10196,公募曲,花弁、それにまつわる音声,あばらや,バーチャルシンガー,初音ミク,29,無,-,2025/08/02,
+10197,公募曲,マリオネットダンサー,ひらぎ,バーチャルシンガー,初音ミク,29,無,-,2025/08/03,
+10198,既存曲,Life Will Change,ぬゆり,バーチャルシンガー,"初音ミク, 鏡音リン, 鏡音レン, MEIKO",31,無,2D,2025/08/04,
+10199,公募曲,リリィララ,ざんぎ,バーチャルシンガー,初音ミク,29,無,-,2025/08/18,
+10200,公募曲,SAN値直葬,STEAKA,バーチャルシンガー,初音ミク,33,有,-,2025/08/22,
+10201,既存曲,ラストラス,*Luna,バーチャルシンガー,初音ミク,28,無,原曲,2025/08/29,
+10202,公募曲,ブラッドドール,フユウ,バーチャルシンガー,初音ミク,30,無,-,2025/09/22,
+10203,既存曲,少女A,椎名もた,バーチャルシンガー,鏡音リン,30,無,-,2025/10/02,
+10204,既存曲,ヴィーナス,ナナホシ管弦楽団,バーチャルシンガー,巡音ルカ,30,無,-,2025/10/04,
+10205,既存曲,げんてん,大漠波新,バーチャルシンガー,MEIKO,31,無,原曲,2025/10/06,
+10206,既存曲,㋰責任集合体,マサラダ,バーチャルシンガー,その他,29,無,-,2025/10/08,
+10207,既存曲,ホワイトハッピー,MARETU,バーチャルシンガー,初音ミク,30,無,-,2025/10/10,
+20021,書き下ろし,ネクラチューンサーカス,かいりきベア,バーチャルシンガー,初音ミク,34,有,-,2025/10/11,
+10208,既存曲,カレシのジュード,syudou,バーチャルシンガー,初音ミク,30,無,-,2025/10/14,
+10209,既存曲,パメラ,バルーン,バーチャルシンガー,その他,30,無,-,2025/10/15,
+10210,公募曲,アベリア,Aliey:S,バーチャルシンガー,初音ミク,31,無,-,2025/10/27,
+10211,公募曲,金時計,TakoyakiKZY,バーチャルシンガー,初音ミク,28,無,-,2025/11/12,
+10212,既存曲,IMAWANOKIWA,いよわ,バーチャルシンガー,初音ミク,32,有,原曲,2025/11/22,
+20022,書き下ろし,怪獣になりたい,削除,バーチャルシンガー,初音ミク,35,有,原曲,2025/11/23,
+10213,公募曲,0.0000034,むさぬりゆ,バーチャルシンガー,初音ミク,34,有,-,2025/11/24,
+10214,既存曲,電光刹歌,かめりあ,バーチャルシンガー,初音ミク,31,無,原曲,2025/12/06,
+10215,既存曲,ウィーアーピコピコハンマーズ!!!!,cosMo@暴走P,バーチャルシンガー,初音ミク,32,無,原曲,2025/12/07,
+10216,既存曲,ジェットブラック,雄之助,バーチャルシンガー,初音ミク,30,無,原曲,2025/12/08,
+10217,既存曲,トレジャーガーデン,Ponchi ♪,バーチャルシンガー,初音ミク,33,無,原曲,2025/12/09,
+10218,既存曲,最愛人生ランナー,かいりきベア,バーチャルシンガー,初音ミク,31,無,原曲,2025/12/10,
+10219,公募曲,ドリーム・キス,吐息.,バーチャルシンガー,初音ミク,29,無,-,2025/12/22,
+10220,既存曲,ぼかろころしあむ,DIVELA,バーチャルシンガー,鏡音リン,30,無,-,2025/12/30,
+10221,既存曲,上弦の月,黒うさP,バーチャルシンガー,KAITO,28,無,-,2026/01/02,
+10222,既存曲,黒塗り世界宛て書簡,フロクロ,バーチャルシンガー,その他,31,無,原曲,2026/01/04,
+10223,公募曲,Internet Junk Junkie,Capchii,バーチャルシンガー,初音ミク,33,無,-,2026/01/12,
+10224,既存曲,好き！雪！本気マジック,Mitchie M,バーチャルシンガー,初音ミク,29,無,原曲,2026/01/31,
+10225,既存曲,Snow Fairy Story,40mP,バーチャルシンガー,初音ミク,28,無,原曲,2026/02/01,
+10226,既存曲,雪がとける前に,doriko,バーチャルシンガー,初音ミク,28,無,原曲,2026/02/02,
+10227,既存曲,スターナイトスノウ,n-buna × Orangestar,バーチャルシンガー,初音ミク,29,無,原曲,2026/02/03,
+10228,既存曲,四角い地球を丸くする,TOKOTOKO（西沢さんP）,バーチャルシンガー,初音ミク,28,無,原曲,2026/02/04,
+10229,既存曲,アイ,DECO*27,バーチャルシンガー,初音ミク,29,無,原曲,2026/02/05,
+10230,既存曲,ぽかぽかの星,はるまきごはん,バーチャルシンガー,初音ミク,27,無,原曲,2026/02/06,
+10231,既存曲,Fondant Step,Heavenz,バーチャルシンガー,初音ミク,26,無,原曲,2026/02/07,
+10232,既存曲,SHIAWASE FOR YOU!,いよわ,バーチャルシンガー,初音ミク,30,無,原曲,2026/02/08,
+10233,公募曲,アリア,なちび,バーチャルシンガー,初音ミク,29,無,-,2026/02/13,
+10234,公募曲,幕を下ろそう、パレードへ,海茶,バーチャルシンガー,その他,30,無,-,2026/02/14,
+10235,公募曲,Ribbon,sabio,バーチャルシンガー,その他,27,無,-,2026/02/15,
+10236,既存曲,ハオ,DECO*27,バーチャルシンガー,初音ミク,29,無,原曲,2026/02/16,
+10237,既存曲,Catch the Wave,kz(livetune),バーチャルシンガー,初音ミク,27,無,原曲,2026/03/09,
+10238,既存曲,アルカリレットウセイ,かいりきベア,バーチャルシンガー,初音ミク,30,無,-,2026/03/16,
+10239,公募曲,天藍のアイスヘヴン,いるかアイス,バーチャルシンガー,初音ミク,33,無,-,2026/03/23,
+10240,既存曲,ダイダイダイダイダイキライ,雨良,バーチャルシンガー,"初音ミク, その他",30,無,-,2026/03/31,
+10241,既存曲,ワンダーラスト,sasakure.UK,バーチャルシンガー,巡音ルカ,31,無,原曲,2026/04/02,
+10242,既存曲,あいしていたのに,MARETU,バーチャルシンガー,初音ミク,27,無,-,2026/04/03,
+10243,既存曲,フロイライン＝オジョウサマ,nyanyannya,バーチャルシンガー,MEIKO,31,無,-,2026/04/04,
+10244,既存曲,Nyanyanyanyanyanyanya!,daniwellP,バーチャルシンガー,初音ミク,31,無,-,2026/04/05,
+10245,既存曲,T氏の話を信じるな,ピノキオピー,バーチャルシンガー,"初音ミク, その他",30,無,-,2026/04/06,
+10246,公募曲,導火愛,Tonbi,バーチャルシンガー,MEIKO,30,無,-,2026/04/24,
+10247,公募曲,ストラタでまちあわせ,メキメキ地蔵,バーチャルシンガー,巡音ルカ,27,無,-,2026/05/25,
+10248,既存曲,いますぐ輪廻,なきそ,バーチャルシンガー,"初音ミク, 巡音ルカ",30,無,-,2026/06/08,
+10249,公募曲,初音狂奏曲第01番「彗惺」,よみぃ,バーチャルシンガー,初音ミク,34,有,-,2026/06/09,
+10250,公募曲,ひかりのあつめかた,まかろり,バーチャルシンガー,初音ミク,30,無,-,2026/06/15,
+10251,既存曲,アイ・メイカー！,マキシウキョウ,バーチャルシンガー,MEIKO,31,無,-,2026/07/06,
+10252,公募曲,ラプス,Kr-KuuRa,バーチャルシンガー,"初音ミク, 鏡音レン",29,無,-,2026/07/17,
+10253,既存曲,アストロノーツ,椎名もた,バーチャルシンガー,初音ミク,25,無,-,2026/07/21,
+10254,既存曲,シティライツ,椎名もた,バーチャルシンガー,鏡音リン,29,無,-,2026/07/22,
+10255,既存曲,ピッコーン！！,椎名もた,バーチャルシンガー,初音ミク,27,無,-,2026/07/23,
+10256,公募曲,デロスサントス,山本,バーチャルシンガー,その他,29,無,-,2026/08/03,
+10257,公募曲,一億年恋してる,いのうつはSA,バーチャルシンガー,その他,31,無,-,2026/08/04,
+10258,公募曲,君に贈る未来,木瀬のん,バーチャルシンガー,"初音ミク, 鏡音リン",30,無,-,2026/08/24,
+10259,既存曲,空に免じて,傘村トータ,バーチャルシンガー,初音ミク,26,無,原曲,2026/08/28,
+10260,既存曲,敗走,傘村トータ,バーチャルシンガー,KAITO,27,無,-,2026/09/19,
+10261,公募曲,こわれちゃった！！,タケノコ少年,バーチャルシンガー,初音ミク,34,有,-,2026/09/22,
+10262,公募曲,きのせい,imie,バーチャルシンガー,"初音ミク, 鏡音リン, 鏡音レン, MEIKO",27,無,-,2026/09/23,
+10263,既存曲,オブソミート,サツキ,バーチャルシンガー,"初音ミク, その他",30,無,原曲,2026/10/01,
+10264,既存曲,ラビットホール,DECO*27,バーチャルシンガー,初音ミク,31,無,-,2026/10/03,
+10265,既存曲,ドゥーマー,東京真中,バーチャルシンガー,その他,28,無,-,2026/10/05,
+29001,書き下ろし,セカイ,DECO*27×kemu,その他,初音ミク,27,有,3D,2020/09/30,
+29002,書き下ろし,ワーワーワールド,Giga×Mitchie M,その他,初音ミク,29,有,3D,2020/09/30,
+29003,書き下ろし,群青讃歌,Eve,その他,初音ミク,27,有,2D/3D,2021/09/30,
+39001,既存曲,エンドマークに希望と涙を添えて,cosMo@暴走P,その他,無し,35,無,原曲,2022/01/08,
+39002,既存曲,the EmpErroR,sasakure.UK,その他,無し,36,無,原曲,2022/01/09,
+39003,既存曲,Don't Fight The Music,黒魔,その他,無し,35,無,-,2022/01/10,
+19001,書き下ろし,アイデンティティ,Kanaria,その他,初音ミク,31,無,2D,2022/05/01,
+19002,書き下ろし,青色絵具,くじら,その他,初音ミク,27,無,2D,2022/05/02,
+19003,書き下ろし,コスモスパイス,ピノキオピー,その他,初音ミク,31,無,2D,2022/05/03,
+19004,書き下ろし,徳川カップヌードル禁止令,Mitchie M,その他,"KAITO, 鏡音レン, その他",31,無,2D,2022/05/04,
+19005,書き下ろし,サラマンダー,DECO*27,その他,初音ミク,30,無,2D,2022/05/05,
+29004,書き下ろし,Journey,DECO*27,その他,初音ミク,29,有,2D/3D,2022/09/30,
+29005,書き下ろし,Be The MUSIC!,キノシタ,その他,"初音ミク, KAITO, MEIKO, 鏡音レン, 巡音ルカ, 鏡音リン",29,無,2D,2023/04/01,
+29006,書き下ろし,NEO,じん,その他,初音ミク,29,有,2D/3D,2023/09/30,
+39004,既存曲,folern,ぬゆり,その他,無し,32,有,-,2024/01/11,
+39005,既存曲,Sage,かめりあ,その他,無し,32,有,-,2024/01/18,
+39006,既存曲,MarbleBlue.,MisoilePunch ♪,その他,無し,33,有,-,2024/01/25,
+39007,既存曲,超最終鬼畜妹フランドール・Ｓ,ビートまりお×まろん,その他,無し,32,有,原曲,2024/05/03,
+29007,書き下ろし,熱風,kemu,その他,初音ミク,29,有,2D/3D,2024/09/30,
+29008,書き下ろし,Worlders,じん,その他,"初音ミク, 鏡音リン, 鏡音レン, 巡音ルカ, KAITO, MEIKO",28,無,2D,2025/01/29,
+29009,書き下ろし,フュージョン,DECO*27,その他,"鏡音レン, KAITO",30,有,2D,2025/02/15,
+39008,既存曲,Fire◎Flower (Rerec),halyosy,その他,鏡音レン,29,無,2D/3D,2025/03/02,
+39009,既存曲,超ナイト・オブ・ナイツ,ビートまりお×まろん,その他,無し,33,有,-,2025/05/05,
+29010,書き下ろし,ペンタトニック,syudou×バルーン,その他,初音ミク,30,有,2D/3D,2025/09/30,
+29011,書き下ろし,世界の歩き方,ユリイ・カノン,その他,初音ミク,28,無,2D,2026/04/28,
+29012,書き下ろし,ドリーマーズビート,40mP,その他,"鏡音リン, 鏡音レン",28,無,2D,2026/05/29,
+29013,書き下ろし,旅に帰る,カンザキイオリ,その他,巡音ルカ,27,無,2D,2026/06/18,
+39010,既存曲,SAIRAI,Shinichi Kobayashi,その他,無し,27,無,-,2026/06/21,
+39011,既存曲,CHAOS,Æsir,その他,無し,33,有,-,2026/06/22,
+39012,既存曲,Saika,RABPIT,その他,無し,28,無,-,2026/06/23,
+39013,既存曲,99 Glooms,Sta,その他,無し,31,無,-,2026/06/24,
+39014,既存曲,ANiMA,xi,その他,無し,33,有,-,2026/06/25,
+39015,既存曲,Masquerade,M2U,その他,無し,30,有,-,2026/06/26,
+29014,書き下ろし,レム,バルーン,その他,KAITO,26,無,2D,2026/07/29,
+29015,書き下ろし,アンチサイノウ,syudou,その他,MEIKO,30,無,2D,2026/08/27,
+29016,既存曲,エメラルド,キタ二タツヤ,その他,初音ミク,29,有,3D,2026/09/30,
